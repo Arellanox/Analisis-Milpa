@@ -79,7 +79,7 @@ def get_cantidad_acumulada_por_producto():
     productos_label = eliminar_productos_duplicados["Productos"]
     nueva_lista = list()
     for x in productos_label:
-        nueva_lista.append({"productos": x, "ingreso ($)": productos[x]})
+        nueva_lista.append({"productos": x, "ingreso": productos[x]})
 
     labels = list()
     ingresos = list()
@@ -92,7 +92,7 @@ def get_cantidad_acumulada_por_producto():
 
     newdf = pd.DataFrame({
         "Productos": labels,
-        "Ingreso": ingresos
+        "Ingreso ($)": ingresos
     })
 
     newdf.to_excel(WRITER, "Ingreso por productos", index=False)
@@ -103,23 +103,83 @@ def get_kilos_pzas_acumulados_por_producto():
     productos = ventas.groupby(["Productos"])["Kilos/pza"].sum()
     eliminar_productos_duplicados = ventas.drop_duplicates(subset="Productos").sort_values("Productos")
     productos_label = eliminar_productos_duplicados["Productos"]
-    productos.to_excel(WRITER, "Kilos por productos", index=False)
+    nueva_lista = list()
+    for x in productos_label:
+        nueva_lista.append({"productos": x, "kilos/pzas": productos[x]})
+
+    labels = list()
+    kilos = list()
+
+    for x in nueva_lista:
+        labels.append(x["productos"])
+
+    for x in nueva_lista:
+        kilos.append(x["kilos/pzas"])
+
+    newdf = pd.DataFrame({
+        "Productos": labels,
+        "Kilos/pzas": kilos
+    })
+
+
+    newdf.to_excel(WRITER, "Kilos por productos", index=False)
 
     return productos.sort_values(ascending=False)
 
 
 def get_ventas_dias():
     dias = ventas.groupby(["Fecha"])["Precio neto"].sum()
+    eliminar_fechas_duplicadas = ventas.drop_duplicates(subset="Fecha").sort_values("Fecha")
+    fechas_label = eliminar_fechas_duplicadas["Fecha"]
 
-    dias.to_excel(WRITER, "Ingreso por fecha", index=False)
+    nueva_lista = list()
+
+    for fecha in fechas_label:
+        nueva_lista.append({"fecha": fecha, "ventas": dias[fecha]})
+
+    dates = list()
+    ingresos = list()
+
+    for x in nueva_lista:
+        ingresos.append(x['ventas'])
+
+    for x in nueva_lista:
+        dates.append(x['fecha'])
+
+    newdf = pd.DataFrame({
+        "Fecha": dates,
+        "Ventas ($)": ingresos
+    })
+
+    newdf.to_excel(WRITER, "Ingreso por fecha", index=False)
 
     return dias.sort_values(ascending=False)
 
 
 def get_dias_semana_mas_ventas():
     dia_semana = ventas.groupby(["semana"])["Precio neto"].sum()
+    eliminar_dias_duplicados = ventas.drop_duplicates(subset="semana").sort_values("semana")
+    dias_label = eliminar_dias_duplicados["semana"]
+    nueva_lista = list()
 
-    dia_semana.to_excel(WRITER, "Ingreso por dia de la semana", index=False)
+    for dia in dias_label:
+        nueva_lista.append({"dia": dia, "venta": dia_semana[dia]})
+
+    days = list()
+    venta = list()
+
+    for x in nueva_lista:
+        days.append(x["dia"])
+
+    for x in nueva_lista:
+        venta.append(x["venta"])
+
+    newdf = pd.DataFrame({
+        "Día de la semana": days,
+        "Ventas ($)": venta
+    })
+
+    newdf.to_excel(WRITER, "Ingreso por dia de la semana", index=False)
 
     return dia_semana.sort_values(ascending=False)
 
@@ -149,16 +209,16 @@ productos = get_cantidad_acumulada_por_producto()
 # print("TERMINA INGRESOS POR PRODUCTO----------------------------")
 
 # Kilos/piezas acumuladas por producto
-print("KILOS ACUMULADOS POR PRODUCTO----------------------------")
+# print("KILOS ACUMULADOS POR PRODUCTO----------------------------")
 productos2 = get_kilos_pzas_acumulados_por_producto()
-print(productos2)
-print("FIN KILOS ACUMULADOS POR PRODUCTO----------------------------")
+# print(productos2)
+# print("FIN KILOS ACUMULADOS POR PRODUCTO----------------------------")
 
 # días con mayor venta
 dias = get_ventas_dias()
-print("VENTAS POR FECHA----------------------------")
-print(dias)
-print("TERMINA VENTAS POR FECHA----------------------------")
+# print("VENTAS POR FECHA----------------------------")
+# print(dias)
+# print("TERMINA VENTAS POR FECHA----------------------------")
 
 # Dia de la semana que más se vende
 dia_semana = get_dias_semana_mas_ventas()
