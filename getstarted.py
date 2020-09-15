@@ -183,7 +183,49 @@ def get_dias_semana_mas_ventas():
 
     return dia_semana.sort_values(ascending=False)
 
+def get_preferencia_cliente():
+    data = ventas.groupby(["Cliente","Productos"])["Kilos/pza"].sum()
 
+    eliminar_clientes_duplicados = ventas.drop_duplicates(subset="Cliente").sort_values("Cliente")
+    clientes = eliminar_clientes_duplicados["Cliente"]
+
+    eliminar_productos_duplicados = ventas.drop_duplicates(subset="Productos").sort_values("Productos")
+    productos_label = eliminar_productos_duplicados["Productos"]
+    
+    nueva_lista = list()
+
+    for cliente in clientes:
+        client = data[cliente]
+        for producto in productos_label:
+            try:
+                nueva_lista.append({"cliente":cliente, "producto": producto, "cantidad":client[producto]})
+                print(f'{cliente} {producto} {client[producto]}')
+            except Exception as e:
+                pass
+    
+    
+    c = list()
+    p = list()
+    cant = list()
+
+    for x in nueva_lista:
+        c.append(x['cliente'])       
+        p.append(x['producto'])
+        cant.append(x['cantidad'])
+
+    new_df = pd.DataFrame({
+        "Cliente": c,
+        "Productos": p,
+        "Cantidad": cant
+    })
+
+
+    new_df.to_excel(WRITER,"Preferencia cliente", index=False)
+
+    # print(data.head())
+
+
+preferencia_cliente = get_preferencia_cliente()
 # Impresion de ticket medio
 tm = get_ticket_medio()
 # print("TICKET MEDIO POR CLIENTE-------------------")
@@ -222,8 +264,8 @@ dias = get_ventas_dias()
 
 # Dia de la semana que más se vende
 dia_semana = get_dias_semana_mas_ventas()
-print("VENTAS POR DIA ----------------------------")
-print(dia_semana)
-print("TERMINA VENTAS POR DIA ----------------------------")
+# print("VENTAS POR DIA ----------------------------")
+# print(dia_semana)
+# print("TERMINA VENTAS POR DIA ----------------------------")
 
 WRITER.save()
