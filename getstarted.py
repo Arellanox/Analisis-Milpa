@@ -1,6 +1,8 @@
 import pandas as pd
+from pandas import ExcelWriter
 
 DATAFRAME = "data/enero.csv"
+WRITER = ExcelWriter("analizado/AnalisisEnero2020.xlsx")
 
 ventas = pd.read_csv(DATAFRAME, encoding='latin-1')
 
@@ -15,7 +17,7 @@ def get_ticket_medio():
 
     for cliente in clientes:
         # llenamos la lista con el nombre del cliente y el promedio de compra
-        new_list.append({"cliente": cliente, "ticket_medio": data[cliente].median(), "compras": data[cliente].count()})
+        new_list.append({"cliente": cliente, "ticket_medio": data[cliente].mean(), "compras": data[cliente].count()})
 
     # creamos una lista vacia para guardar los nombre de los clientes
     c = list()
@@ -42,6 +44,9 @@ def get_ticket_medio():
         "compras": compras
     })
 
+    ticket_medio.to_excel(WRITER, "Ticket Medio", index=False)
+    #writer.save()
+
     # imprimimos el ticket medio de mayor a menor
     return ticket_medio.sort_values("tm", ascending=False)
 
@@ -49,24 +54,56 @@ def get_ticket_medio():
 def get_kilos_vendidos():
     filtrar_kilos = ventas[ventas["Cat"]=="KG"]
     kilos_vendidos = filtrar_kilos["Kilos/pza"].sum()
+
+    # kilos = pd.DataFrame({
+    #     "kilos vendidos totales": kilos_vendidos[0]
+    # })
     
+    # kilos.to_excel(WRITER, "Kilos vendidos", index=False)
+
     return kilos_vendidos
 
 
 def get_pzas_vendidas():
     filtrar_pza = ventas[ventas["Cat"]=="PZA"]
     pzas_vendidas = filtrar_pza["Kilos/pza"].sum()
+
+    # pzas_vendidas.to_excel(WRITER, "Piezas vendidas", index=False)
     
     return pzas_vendidas
 
 
 def get_cantidad_acumulada_por_producto():
     productos = ventas.groupby(["Productos"])["Precio neto"].sum()
+    eliminar_productos_duplicados = ventas.drop_duplicates(subset="Productos").sort_values("Productos")
+    productos_label = eliminar_productos_duplicados["Productos"]
+    nueva_lista = list()
+    for x in productos_label:
+        nueva_lista.append({"productos": x, "ingreso ($)": productos[x]})
+
+    labels = list()
+    ingresos = list()
+
+    for x in nueva_lista:
+        labels.append(x["productos"])
+
+    for x in nueva_lista:
+        ingresos.append(x["ingreso"])
+
+    newdf = pd.DataFrame({
+        "Productos": labels,
+        "Ingreso": ingresos
+    })
+
+    newdf.to_excel(WRITER, "Ingreso por productos", index=False)
 
     return productos.sort_values(ascending=False)
 
 def get_kilos_pzas_acumulados_por_producto():
     productos = ventas.groupby(["Productos"])["Kilos/pza"].sum()
+    eliminar_productos_duplicados = ventas.drop_duplicates(subset="Productos").sort_values("Productos")
+    productos_label = eliminar_productos_duplicados["Productos"]
+    productos.to_excel(WRITER, "Kilos por productos", index=False)
 
     return productos.sort_values(ascending=False)
 
@@ -74,38 +111,42 @@ def get_kilos_pzas_acumulados_por_producto():
 def get_ventas_dias():
     dias = ventas.groupby(["Fecha"])["Precio neto"].sum()
 
+    dias.to_excel(WRITER, "Ingreso por fecha", index=False)
+
     return dias.sort_values(ascending=False)
 
 
 def get_dias_semana_mas_ventas():
     dia_semana = ventas.groupby(["semana"])["Precio neto"].sum()
 
+    dia_semana.to_excel(WRITER, "Ingreso por dia de la semana", index=False)
+
     return dia_semana.sort_values(ascending=False)
 
 
 # Impresion de ticket medio
 tm = get_ticket_medio()
-print("TICKET MEDIO POR CLIENTE-------------------")
-print(tm)
-print("TERMINA EL TICKET MEDIO--------------------")
+# print("TICKET MEDIO POR CLIENTE-------------------")
+# print(tm)
+# print("TERMINA EL TICKET MEDIO--------------------")
 
 # Kilos vendidos
 kv = get_kilos_vendidos()
-print("KILOS VENDIDOS----------------------------")
-print(f'Kilos vendidos: {kv}')
-print("TERMINA KILOS VENDIDOS----------------------------")
+# print("KILOS VENDIDOS----------------------------")
+# print(f'Kilos vendidos: {kv}')
+# print("TERMINA KILOS VENDIDOS----------------------------")
 
 # Pzas vendidas
 pv = get_pzas_vendidas()
-print("PIEZAS VENDIDAS----------------------------")
-print(f'Piezas vendidas: {pv}')
-print("TERMINA PIEZAS VENDIDAS----------------------------")
+# print("PIEZAS VENDIDAS----------------------------")
+# print(f'Piezas vendidas: {pv}')
+# print("TERMINA PIEZAS VENDIDAS----------------------------")
 
 # Cantidad acumulada por productos
 productos = get_cantidad_acumulada_por_producto()
-print("INGRESOS POR PRODUCTO----------------------------")
-print(productos)
-print("TERMINA INGRESOS POR PRODUCTO----------------------------")
+# print("INGRESOS POR PRODUCTO----------------------------")
+# print(productos)
+# print("TERMINA INGRESOS POR PRODUCTO----------------------------")
 
 # Kilos/piezas acumuladas por producto
 print("KILOS ACUMULADOS POR PRODUCTO----------------------------")
@@ -124,3 +165,5 @@ dia_semana = get_dias_semana_mas_ventas()
 print("VENTAS POR DIA ----------------------------")
 print(dia_semana)
 print("TERMINA VENTAS POR DIA ----------------------------")
+
+WRITER.save()
