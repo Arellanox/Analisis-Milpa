@@ -1,6 +1,6 @@
 import pandas as pd
 
-DATAFRAME = "data/febrero.csv"
+DATAFRAME = "data/enero.csv"
 
 ventas = pd.read_csv(DATAFRAME, encoding='latin-1')
 
@@ -15,12 +15,14 @@ def get_ticket_medio():
 
     for cliente in clientes:
         # llenamos la lista con el nombre del cliente y el promedio de compra
-        new_list.append({"cliente": cliente, "ticket_medio": data[cliente].median()})
+        new_list.append({"cliente": cliente, "ticket_medio": data[cliente].median(), "compras": data[cliente].count()})
 
     # creamos una lista vacia para guardar los nombre de los clientes
     c = list()
     # creamos una lista vacia para guardar los tickets medios
     t = list()
+    # creamos una lista vacia para guardar le numeor de compras
+    compras = list()
 
     # llenamos la lista de los clientes
     for x in new_list:
@@ -30,10 +32,14 @@ def get_ticket_medio():
     for x in new_list:
         t.append(x["ticket_medio"])
 
+    for x in new_list:
+        compras.append(x["compras"])
+
     # creamos un nuevo dataframe con los datos de las listas c y t 
     ticket_medio = pd.DataFrame({
         "cliente": c,
-        "tm": t
+        "tm": t,
+        "compras": compras
     })
 
     # imprimimos el ticket medio de mayor a menor
@@ -56,6 +62,11 @@ def get_pzas_vendidas():
 
 def get_cantidad_acumulada_por_producto():
     productos = ventas.groupby(["Productos"])["Precio neto"].sum()
+
+    return productos.sort_values(ascending=False)
+
+def get_kilos_pzas_acumulados_por_producto():
+    productos = ventas.groupby(["Productos"])["Kilos/pza"].sum()
 
     return productos.sort_values(ascending=False)
 
@@ -95,6 +106,12 @@ productos = get_cantidad_acumulada_por_producto()
 print("INGRESOS POR PRODUCTO----------------------------")
 print(productos)
 print("TERMINA INGRESOS POR PRODUCTO----------------------------")
+
+# Kilos/piezas acumuladas por producto
+print("KILOS ACUMULADOS POR PRODUCTO----------------------------")
+productos2 = get_kilos_pzas_acumulados_por_producto()
+print(productos2)
+print("FIN KILOS ACUMULADOS POR PRODUCTO----------------------------")
 
 # días con mayor venta
 dias = get_ventas_dias()
