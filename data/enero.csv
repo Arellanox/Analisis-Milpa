@@ -1,0 +1,1137 @@
+Documento,Kilos/pza,Fecha,Productos,Cliente,Precio del producto,Precio neto,Cat,semana
+KG,3.07,02/01/2020,Pechuga,Maritza Espinosa,169,518.83,KG,jueves
+KG,2.24,02/01/2020,Pollo entero,Maritza Espinosa,108,241.92,KG,jueves
+PZA,1,02/01/2020,Servicio $30,Maritza Espinosa,30,30,KG,jueves
+KG,1.12,02/01/2020,Pechuga sin hueso,Aura Reyes,185,207.2,PZA,jueves
+KG,1.4,02/01/2020,Milanesa de pechuga natural,Aura Reyes,235,329,KG,jueves
+KG,0.71,02/01/2020,Carne Molida,Aura Reyes,180,127.8,KG,jueves
+PZA,1,02/01/2020,Servicio $30,Aura Reyes,30,30,KG,jueves
+PZA,8,02/01/2020,Nuggets,Sara Luz Arrevillaga,6,48,KG,jueves
+KG,1.835,02/01/2020,Pollo entero,Sara Luz Arrevillaga,108,198.18,KG,jueves
+PZA,1,02/01/2020,Servicio $40,Sara Luz Arrevillaga,40,40,KG,jueves
+PZA,10,02/01/2020,Huevos,Karina Aranda,5,50,KG,jueves
+KG,0.525,02/01/2020,Milanesa de pechuga natural,Karina Aranda,235,123.38,KG,jueves
+PZA,1,02/01/2020,Servicio $30,Karina Aranda,30,30,KG,jueves
+PZA,4,02/01/2020,Hamburguesas,Miriam Margot,18,72,KG,jueves
+KG,0.545,02/01/2020,Milanesa pechuga empanizada,Miriam Margot,240,130.8,KG,jueves
+KG,1.025,02/01/2020,Fajitas de pollo,Miriam Margot,198,202.95,PZA,jueves
+PZA,1,02/01/2020,Servicio $30,Miriam Margot,30,30,KG,jueves
+KG,1.73,02/01/2020,Pollo entero,Sra Conchi,108,186.84,KG,jueves
+PZA,1,02/01/2020,Servicio $30,Sra Conchi,30,30,KG,jueves
+PZA,1,02/01/2020,Servicio $30,Elizabeth Ramirez Ballesteros,30,30,KG,jueves
+KG,1.925,02/01/2020,Pollo entero,Elizabeth Ramirez Ballesteros,108,207.9,KG,jueves
+KG,2.025,02/01/2020,Pollo entero,Dolores Jimenez,108,218.7,KG,jueves
+KG,0.665,02/01/2020,Milanesa de muslo natural,Dolores Jimenez,175,116.38,KG,jueves
+PZA,1,02/01/2020,Servicio $30,Dolores Jimenez,30,30,PZA,jueves
+KG,7.05,03/01/2020,Alitas,Jose Macario,50,352.5,KG,viernes
+KG,3.995,03/01/2020,Pollo entero,Sebastiana,108,431.46,KG,viernes
+KG,4.27,03/01/2020,Pollo entero,Tila Molina,108,461.16,KG,viernes
+KG,2.035,03/01/2020,Milanesa de pechuga natural,Doris Cervantes,235,478.23,PZA,viernes
+PZA,1,03/01/2020,Servicio $30,Doris Cervantes,30,30,KG,viernes
+PZA,14,03/01/2020,Huevos,Marcelin Aguilera,5,70,KG,viernes
+KG,0.525,03/01/2020,Milanesa de muslo natural,Marcelin Aguilera,175,91.88,KG,viernes
+PZA,5,03/01/2020,Hamburguesas,Marcelin Aguilera,18,90,KG,viernes
+PZA,1,03/01/2020,Servicio $30,Marcelin Aguilera,30,30,KG,viernes
+PZA,30,03/01/2020,Huevos,Norma Villegaz,5,150,KG,viernes
+KG,2.525,03/01/2020,Pollo entero,Norma Villegaz,108,272.7,KG,viernes
+PZA,1,03/01/2020,Servicio $30,Norma Villegaz,30,30,KG,viernes
+KG,2.425,03/01/2020,Pollo entero,Cinthia Gaspar,108,261.9,KG,viernes
+PZA,1,03/01/2020,Servicio $30,Cinthia Gaspar,30,30,PZA,viernes
+KG,2.07,03/01/2020,Menudencia,Magali Utrilla,50,103.5,KG,viernes
+PZA,1.62,03/01/2020,Muslo,Magali Utrilla,109,176.58,KG,viernes
+PZA,1.475,03/01/2020,Pierna,Magali Utrilla,100,147.5,KG,viernes
+PZA,1,03/01/2020,Servicio $30,Magali Utrilla,30,30,KG,viernes
+PZA,12,03/01/2020,Hamburguesas,Adriana Tapia,18,216,KG,viernes
+PZA,1,03/01/2020,Servicio $30,Adriana Tapia,30,30,KG,viernes
+KG,4.895,03/01/2020,Pollo entero,Jazmin Marin,108,528.66,KG,viernes
+PZA,12,03/01/2020,Nuggets,Jazmin Marin,6,72,KG,viernes
+PZA,12,03/01/2020,Albondigas,Jazmin Marin,9,108,KG,viernes
+PZA,3,03/01/2020,Hamburguesas,Jazmin Marin,18,54,KG,viernes
+PZA,1,03/01/2020,Servicio $30,Jazmin Marin,30,30,KG,viernes
+PZA,1,03/01/2020,Servicio $30,Rocio Estrada,30,30,KG,viernes
+KG,1.54,03/01/2020,Fajitas de pollo,Rocio Estrada,198,304.92,KG,viernes
+KG,11.7,03/01/2020,Alitas,Aylin de la Cruz Magaña,55,643.5,KG,viernes
+KG,0.5,03/01/2020,Milanesa de muslo natural,Cesar Ruiz,175,87.5,KG,viernes
+PZA,10,04/01/2020,Huevos,Norma,5,50,KG,sábado
+PZA,10,04/01/2020,Huevos,Norma,5,50,KG,sábado
+KG,1.025,04/01/2020,Milanesa de pechuga natural,Sra. Diana,235,240.88,PZA,sábado
+PZA,1,04/01/2020,Servicio $30,Sra. Diana,30,30,PZA,sábado
+PZA,12,04/01/2020,Albondigas,Lisette Alfaro,9,108,KG,sábado
+PZA,1,04/01/2020,Servicio $30,Lisette Alfaro,30,30,KG,sábado
+KG,2.115,04/01/2020,Pollo entero,Rodrigo Mayo,108,228.42,KG,sábado
+PZA,1,04/01/2020,Servicio $30,Rodrigo Mayo,30,30,KG,sábado
+PZA,30,06/01/2020,Albondigas,Chavo Suarez,9,270,KG,lunes
+KG,4.25,06/01/2020,Pechuga,Chavo Suarez,169,718.25,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Chavo Suarez,30,30,KG,lunes
+PZA,20,06/01/2020,Albondigas,Laura Canton,9,180,KG,lunes
+KG,1.71,06/01/2020,Milanesa de pechuga natural,Laura Canton,235,401.85,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Laura Canton,30,30,KG,lunes
+KG,1.02,06/01/2020,Milanesa de pechuga natural,Ana Laura Ortiz,235,239.7,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Ana Laura Ortiz,30,30,KG,lunes
+KG,1.62,06/01/2020,Milanesa de pechuga natural,Karina Grijalva,235,380.7,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Karina Grijalva,30,30,KG,lunes
+KG,1.69,06/01/2020,Pechuga,Angelica Zacarias,169,285.61,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Angelica Zacarias,30,30,KG,lunes
+KG,2.46,06/01/2020,Pollo entero,Mildred Ruz,108,265.68,PZA,lunes
+PZA,1,06/01/2020,Servicio $30,Mildred Ruz,30,30,KG,lunes
+KG,2.57,06/01/2020,Pollo entero,Miriam Margot,108,277.56,KG,lunes
+KG,1.03,06/01/2020,Milanesa de muslo natural,Miriam Margot,175,180.25,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Miriam Margot,30,30,PZA,lunes
+KG,1.385,06/01/2020,Pollo entero,Amparo Robles,108,149.58,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Amparo Robles,30,30,KG,lunes
+KG,1.025,06/01/2020,Milanesa de pechuga natural,Berenice Morgado,235,240.88,KG,lunes
+PZA,1.575,06/01/2020,Muslo,Berenice Morgado,109,171.68,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Berenice Morgado,30,30,KG,lunes
+KG,2.095,06/01/2020,Pechuga sin hueso,Ariadne Canal Jimenez,185,387.58,KG,lunes
+KG,2.025,06/01/2020,Milanesa de pechuga natural,Ariadne Canal Jimenez,235,475.88,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Ariadne Canal Jimenez,30,30,KG,lunes
+KG,2.04,06/01/2020,Milanesa de pechuga natural,Chelo Gutierrez,235,479.4,KG,lunes
+KG,1.625,06/01/2020,Pechuga,Chelo Gutierrez,169,274.63,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Chelo Gutierrez,30,30,KG,lunes
+KG,1.935,06/01/2020,Milanesa de pechuga natural,Mayra Giron,235,454.73,KG,lunes
+KG,1.535,06/01/2020,Pechuga sin hueso,Mayra Giron,185,283.98,KG,lunes
+KG,1.015,06/01/2020,Milanesa de pechuga natural,Mariday Oramas,235,238.53,KG,lunes
+KG,0.88,06/01/2020,Pechuga,Mariday Oramas,169,148.72,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Mariday Oramas,30,30,KG,lunes
+KG,1.51,06/01/2020,Milanesa de pechuga natural,Roberto de la Cruz,235,354.85,KG,lunes
+KG,0.52,06/01/2020,Milanesa de muslo natural,Roberto de la Cruz,175,91,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Roberto de la Cruz,30,30,KG,lunes
+KG,3.095,06/01/2020,Milanesa pechuga marinada,Isabel Hernandez,240,742.8,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Isabel Hernandez,30,30,KG,lunes
+KG,0.76,06/01/2020,Pechuga,Adriana Castro,169,128.44,KG,lunes
+PZA,0.57,06/01/2020,Muslo,Adriana Castro,109,62.13,KG,lunes
+PZA,0.38,06/01/2020,Pierna,Adriana Castro,100,38,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Adriana Castro,30,30,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Miriam Cruz,30,30,KG,lunes
+KG,1.635,06/01/2020,Pollo entero,Miriam Cruz,108,176.58,KG,lunes
+KG,1.01,06/01/2020,Milanesa de pechuga natural,Janeth Arias,235,237.35,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Janeth Arias,30,30,KG,lunes
+KG,0.71,06/01/2020,Milanesa de pechuga natural,Dafne Viñas,235,166.85,KG,lunes
+KG,2.295,06/01/2020,Pollo entero,Dafne Viñas,108,247.86,KG,lunes
+PZA,1,06/01/2020,Servicio $40,Dafne Viñas,40,40,KG,lunes
+KG,1.02,06/01/2020,Milanesa pechuga marinada,Catalina Vidauri,240,244.8,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Catalina Vidauri,30,30,KG,lunes
+PZA,20,06/01/2020,Albondigas,Carolina Ortiz,9,180,KG,lunes
+PZA,0.49,06/01/2020,Pierna,Carolina Ortiz,100,49,KG,lunes
+PZA,0.5,06/01/2020,Muslo,Carolina Ortiz,109,54.5,KG,lunes
+KG,1.78,06/01/2020,Pechuga,Carolina Ortiz,169,300.82,KG,lunes
+PZA,1,06/01/2020,Servicio $30,Carolina Ortiz,30,30,KG,lunes
+KG,0.345,07/01/2020,Milanesa de pechuga natural,Alicia Sarias,235,81.08,KG,martes
+PZA,0.88,07/01/2020,Muslo,Alicia Sarias,109,95.92,KG,martes
+PZA,1,07/01/2020,Servicio $30,Alicia Sarias,30,30,KG,martes
+KG,0.715,07/01/2020,Pechuga,Alina Segura,169,120.84,KG,martes
+KG,0.675,07/01/2020,Milanesa de pechuga natural,Alina Segura,235,158.63,KG,martes
+PZA,10,07/01/2020,Huevos,Anabel Garcia,5,50,KG,martes
+KG,0.545,07/01/2020,Milanesa pechuga marinada,Anabel Garcia,240,130.8,KG,martes
+KG,2.075,07/01/2020,Pollo entero,Anabel Garcia,108,224.1,KG,martes
+PZA,1,07/01/2020,Servicio $30,Anabel Garcia,30,30,PZA,martes
+PZA,0.725,07/01/2020,Pierna,Cinthia Gaspar,100,72.5,KG,martes
+KG,0.51,07/01/2020,Alitas,Cinthia Gaspar,90,45.9,KG,martes
+KG,2.135,07/01/2020,Pollo entero,Cinthia Gaspar,108,230.58,PZA,martes
+PZA,1,07/01/2020,Servicio $30,Cinthia Gaspar,30,30,KG,martes
+PZA,20,07/01/2020,Huevos,Gloria Berezaluce,5,100,KG,martes
+KG,1.015,07/01/2020,Milanesa pechuga marinada,Gloria Berezaluce,240,243.6,KG,martes
+PZA,1,07/01/2020,Servicio $30,Gloria Berezaluce,30,30,KG,martes
+KG,1.01,07/01/2020,Milanesa de pechuga natural,Deysi Marcin,235,237.35,KG,martes
+KG,2.28,07/01/2020,Pechuga,Deysi Marcin,169,385.32,KG,martes
+PZA,0.375,07/01/2020,Pierna,Deysi Marcin,100,37.5,PZA,martes
+PZA,1,07/01/2020,Servicio $35,Deysi Marcin,35,35,KG,martes
+KG,2.33,07/01/2020,Pollo entero,Maritza Espinosa,108,251.64,KG,martes
+PZA,1,07/01/2020,Servicio $30,Maritza Espinosa,30,30,KG,martes
+KG,1.035,07/01/2020,Milanesa pechuga marinada,Katia Perez,240,248.4,KG,martes
+PZA,1,07/01/2020,Servicio $30,Katia Perez,30,30,KG,martes
+KG,1.03,07/01/2020,Milanesa de muslo natural,Raquel Martinez,175,180.25,KG,martes
+KG,1.01,07/01/2020,Milanesa de pechuga natural,Raquel Martinez,235,237.35,KG,martes
+PZA,1,07/01/2020,Servicio $35,Raquel Martinez,35,35,KG,martes
+KG,0.51,07/01/2020,Menudencia,Carolina Arias,50,25.5,KG,martes
+PZA,0.62,07/01/2020,Muslo,Carolina Arias,109,67.58,KG,martes
+PZA,0.585,07/01/2020,Pierna,Carolina Arias,100,58.5,KG,martes
+PZA,1,07/01/2020,Servicio $30,Carolina Arias,30,30,KG,martes
+PZA,12,07/01/2020,Nuggets,Eva Correa,6,72,KG,martes
+KG,0.83,07/01/2020,Pechuga,Eva Correa,169,140.27,PZA,martes
+PZA,1,07/01/2020,Servicio $30,Eva Correa,30,30,KG,martes
+PZA,1,07/01/2020,Servicio $30,Beatriz Broca,30,30,KG,martes
+PZA,7,07/01/2020,Hamburguesas,Beatriz Broca,18,126,KG,martes
+KG,1.01,07/01/2020,Milanesa de pechuga natural,Marcela Suarez,235,237.35,KG,martes
+KG,1.01,07/01/2020,Milanesa pechuga empanizada,Marcela Suarez,240,242.4,KG,martes
+PZA,10,07/01/2020,Nuggets,Marcela Suarez,6,60,PZA,martes
+KG,2.17,07/01/2020,Pollo entero,Marcela Suarez,108,234.36,KG,martes
+PZA,1,07/01/2020,Servicio $30,Marcela Suarez,30,30,KG,martes
+PZA,10,07/01/2020,Huevos,Marisela Lovato,5,50,KG,martes
+KG,1.035,07/01/2020,Milanesa pechuga marinada,Marisela Lovato,240,248.4,KG,martes
+PZA,1,07/01/2020,Servicio $30,Marisela Lovato,30,30,KG,martes
+KG,1.18,07/01/2020,Pechuga sin hueso,Sofia Gonzalez Goraieb,185,218.3,KG,martes
+PZA,1,07/01/2020,Servicio $30,Sofia Gonzalez Goraieb,30,30,KG,martes
+KG,1.435,07/01/2020,Pechuga,Vanessa Fernandez,169,242.52,PZA,martes
+PZA,0.995,07/01/2020,Muslo,Vanessa Fernandez,109,108.46,PZA,martes
+PZA,1,07/01/2020,Servicio $30,Vanessa Fernandez,30,30,KG,martes
+PZA,1,07/01/2020,Servicio $35,Cristina Frias,35,35,KG,martes
+PZA,0.255,07/01/2020,Muslo,Cristina Frias,109,27.8,KG,martes
+PZA,0.25,07/01/2020,Pierna,Cristina Frias,100,25,KG,martes
+KG,1.005,07/01/2020,Milanesa pechuga marinada,Cristina Frias,240,241.2,KG,martes
+PZA,20,07/01/2020,Huevos,Martha Oropeza,5,100,KG,martes
+KG,0.505,07/01/2020,Carne Molida,Martha Oropeza,180,90.9,KG,martes
+PZA,2.065,07/01/2020,Muslo,Martha Oropeza,109,225.09,KG,martes
+PZA,1,07/01/2020,Servicio $30,Martha Oropeza,30,30,KG,martes
+KG,0.29,07/01/2020,Milanesa de pechuga natural,Cesar Ruiz,235,68.15,KG,martes
+PZA,1.015,07/01/2020,Muslo,Cesar Ruiz,109,110.64,KG,martes
+PZA,1.57,07/01/2020,Pierna,Guadalupe Valles,100,157,KG,martes
+KG,0.645,07/01/2020,Milanesa de pechuga natural,Guadalupe Valles,235,151.58,KG,martes
+PZA,1,07/01/2020,Servicio $40,Guadalupe Valles,40,40,KG,martes
+PZA,0.94,07/01/2020,Muslo,Rosa Urania,109,102.46,KG,martes
+PZA,1.045,07/01/2020,Pierna,Rosa Urania,100,104.5,KG,martes
+KG,0.33,08/01/2020,Menudencia,Araceli,50,16.5,KG,miércoles
+KG,0.89,08/01/2020,Milanesa de muslo natural,Araceli,175,155.75,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Araceli,30,30,KG,miércoles
+KG,0.795,08/01/2020,Pechuga,Silvia Gonzalez de Ruiz,169,134.36,KG,miércoles
+KG,1.985,08/01/2020,Pollo entero,Silvia Gonzalez de Ruiz,108,214.38,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Silvia Gonzalez de Ruiz,30,30,KG,miércoles
+PZA,10,08/01/2020,Hamburguesas,Rommy Cano,18,180,PZA,miércoles
+KG,2.03,08/01/2020,Milanesa de pechuga natural,Rommy Cano,235,477.05,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Rommy Cano,30,30,KG,miércoles
+PZA,4,08/01/2020,Hamburguesas,Irma Jimenez,18,72,KG,miércoles
+KG,0.505,08/01/2020,Carne Molida,Irma Jimenez,180,90.9,KG,miércoles
+KG,0.84,08/01/2020,Alitas,Irma Jimenez,90,75.6,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Irma Jimenez,30,30,KG,miércoles
+KG,1.1,08/01/2020,Fajitas de pollo,Lulu Castro,198,217.8,KG,miércoles
+KG,0.745,08/01/2020,Milanesa pechuga empanizada,Lulu Castro,240,178.8,KG,miércoles
+KG,0.75,08/01/2020,Milanesa pechuga marinada,Lulu Castro,240,180,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Lulu Castro,30,30,KG,miércoles
+PZA,6,08/01/2020,Nuggets,Marissa Rosique,6,36,KG,miércoles
+PZA,12,08/01/2020,Albondigas,Marissa Rosique,9,108,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Marissa Rosique,30,30,KG,miércoles
+KG,1.01,08/01/2020,Milanesa pechuga empanizada,Maria Jesus Hernandez,240,242.4,KG,miércoles
+KG,1.025,08/01/2020,Milanesa de pechuga natural,Maria Jesus Hernandez,235,240.88,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Maria Jesus Hernandez,30,30,KG,miércoles
+KG,0.715,08/01/2020,Pechuga,Casilda Ruiz,169,120.84,KG,miércoles
+KG,10.015,08/01/2020,Alitas,Aylin de la Cruz Magaña,55,550.83,KG,miércoles
+KG,1,08/01/2020,Carne Molida,Judith Gomez,180,180,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Judith Gomez,30,30,KG,miércoles
+KG,1.67,08/01/2020,Pechuga,Yenni Rodriguez,169,282.23,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Yenni Rodriguez,30,30,PZA,miércoles
+KG,0.49,08/01/2020,Fajitas de pollo,Maria del Carmen Zurita,198,97.02,KG,miércoles
+PZA,10,08/01/2020,Hamburguesas,Maria del Carmen Zurita,18,180,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Maria del Carmen Zurita,30,30,KG,miércoles
+PZA,16,08/01/2020,Nuggets,Lissete Gomez,6,96,KG,miércoles
+KG,0.505,08/01/2020,Milanesa pechuga empanizada,Lissete Gomez,240,121.2,PZA,miércoles
+KG,0.5,08/01/2020,Milanesa de pechuga natural,Lissete Gomez,235,117.5,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Lissete Gomez,30,30,KG,miércoles
+KG,2.475,08/01/2020,Pollo entero,Dalia Cabrales,108,267.3,PZA,miércoles
+PZA,1,08/01/2020,Servicio $30,Dalia Cabrales,30,30,PZA,miércoles
+KG,1.025,08/01/2020,Alitas,Araceli Lopez,90,92.25,KG,miércoles
+PZA,1.005,08/01/2020,Pierna,Araceli Lopez,100,100.5,KG,miércoles
+KG,4.045,08/01/2020,Milanesa de pechuga natural,Araceli Lopez,235,950.58,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Araceli Lopez,30,30,KG,miércoles
+KG,0.5,08/01/2020,Milanesa de pechuga natural,Luis Nuñez,235,117.5,KG,miércoles
+KG,0.505,08/01/2020,Milanesa pechuga marinada,Luis Nuñez,240,121.2,KG,miércoles
+KG,1.015,08/01/2020,Fajitas de pollo,Luis Nuñez,198,200.97,KG,miércoles
+PZA,1,08/01/2020,Servicio $30,Luis Nuñez,30,30,KG,miércoles
+KG,0.83,09/01/2020,Pechuga,Paola Castillo,169,140.27,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Paola Castillo,30,30,KG,jueves
+KG,1.06,09/01/2020,Alitas,Alejandra Oropeza,75,79.5,KG,jueves
+PZA,12,09/01/2020,Albondigas,Alejandra Oropeza,9,108,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Alejandra Oropeza,30,30,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Heidi Pinto Burelo,30,30,KG,jueves
+KG,0.865,09/01/2020,Pechuga,Heidi Pinto Burelo,169,146.19,KG,jueves
+PZA,14,09/01/2020,Hamburguesas,Adriana Tapia,18,252,KG,jueves
+KG,0.485,09/01/2020,Chorizo artesanal,Adriana Tapia,180,87.3,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Adriana Tapia,30,30,KG,jueves
+PZA,1.635,09/01/2020,Muslo,Alejandra Sánchez,109,178.22,KG,jueves
+KG,0.83,09/01/2020,Pechuga,Alejandra Sánchez,169,140.27,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Alejandra Sánchez,30,30,PZA,jueves
+PZA,1.54,09/01/2020,Pierna,Maria Mercedes C,100,154,KG,jueves
+PZA,1.85,09/01/2020,Muslo,Maria Mercedes C,109,201.65,KG,jueves
+KG,1.035,09/01/2020,Milanesa de pechuga natural,Maria Mercedes C,235,243.23,KG,jueves
+PZA,1,09/01/2020,Servicio $35,Maria Mercedes C,35,35,KG,jueves
+KG,1,09/01/2020,Milanesa de pechuga natural,Mildred Ruz,235,235,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Mildred Ruz,30,30,KG,jueves
+PZA,12,09/01/2020,Albondigas,Yenni Rodriguez,9,108,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Yenni Rodriguez,30,30,KG,jueves
+KG,2.115,09/01/2020,Pechuga,Hilda de la Cruz,169,357.44,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Hilda de la Cruz,30,30,KG,jueves
+KG,2.175,09/01/2020,Pollo entero,Deysi Oramas,108,234.9,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Deysi Oramas,30,30,KG,jueves
+PZA,0.385,09/01/2020,Pierna,Tila Molina,100,38.5,KG,jueves
+PZA,0.455,09/01/2020,Muslo,Tila Molina,109,49.6,KG,jueves
+PZA,8,09/01/2020,Nuggets,Gabriela Morales,6,48,KG,jueves
+KG,1.035,09/01/2020,Milanesa de muslo natural,Gabriela Morales,175,181.13,KG,jueves
+PZA,1,09/01/2020,Servicio $30,Gabriela Morales,30,30,KG,jueves
+KG,34.53,09/01/2020,Alitas,Geovani Garcia,30,1035.9,KG,jueves
+PZA,6,09/01/2020,Hamburguesas,Maria Gpe Hernandez,18,108,PZA,jueves
+PZA,1,09/01/2020,Muslo,Maria Gpe Hernandez,109,109,KG,jueves
+KG,1.555,09/01/2020,Alitas,Maria Gpe Hernandez,75,116.63,PZA,jueves
+PZA,1,09/01/2020,Servicio $30,Maria Gpe Hernandez,30,30,KG,jueves
+KG,5.115,10/01/2020,Pollo entero,Isabel Hernandez,108,552.42,KG,viernes
+PZA,1,10/01/2020,Servicio $30,Isabel Hernandez,30,30,KG,viernes
+KG,0.785,10/01/2020,Pechuga,Cinthia Gaspar,169,132.67,PZA,viernes
+PZA,1,10/01/2020,Servicio $30,Cinthia Gaspar,30,30,PZA,viernes
+KG,2.19,10/01/2020,Pollo entero,Amparo Robles,108,236.52,KG,viernes
+PZA,1,10/01/2020,Servicio $30,Amparo Robles,30,30,KG,viernes
+PZA,10,10/01/2020,Nuggets,Alejandra Perez,6,60,PZA,viernes
+PZA,0.545,10/01/2020,Muslo,Alejandra Perez,109,59.41,KG,viernes
+KG,0.685,10/01/2020,Pechuga,Alejandra Perez,169,115.77,KG,viernes
+KG,0.49,10/01/2020,Milanesa de pechuga natural,Alejandra Perez,235,115.15,KG,viernes
+KG,0.5,10/01/2020,Milanesa pechuga empanizada,Alejandra Perez,240,120,KG,viernes
+PZA,1,10/01/2020,Servicio $30,Alejandra Perez,30,30,KG,viernes
+KG,2.575,10/01/2020,Pollo entero,Sebastiana,108,278.1,KG,viernes
+PZA,0.44,10/01/2020,Pierna,Tila Molina,100,44,PZA,viernes
+PZA,0.45,10/01/2020,Muslo,Tila Molina,109,49.05,KG,viernes
+KG,2.39,10/01/2020,Pollo entero,Tila Molina,108,258.12,KG,viernes
+KG,2.815,10/01/2020,Pollo entero,Jose Macario,108,304.02,KG,viernes
+KG,0.79,10/01/2020,Pechuga sin hueso,Magali Utrilla,185,146.15,KG,viernes
+PZA,1,10/01/2020,Servicio $30,Magali Utrilla,30,30,KG,viernes
+PZA,0.955,10/01/2020,Muslo,Sibelle Merodio,109,104.1,PZA,viernes
+KG,0.545,10/01/2020,Milanesa de pechuga natural,Sibelle Merodio,235,128.08,KG,viernes
+PZA,1,10/01/2020,Servicio $30,Sibelle Merodio,30,30,KG,viernes
+KG,0.51,10/01/2020,Carne Molida,Yadira Tosca,180,91.8,KG,viernes
+KG,0.49,10/01/2020,Milanesa pechuga empanizada,Yadira Tosca,240,117.6,KG,viernes
+PZA,10,10/01/2020,Huevos,Yadira Tosca,5,50,KG,viernes
+PZA,6,10/01/2020,Nuggets,Yadira Tosca,6,36,KG,viernes
+PZA,1,10/01/2020,Servicio $30,Yadira Tosca,30,30,KG,viernes
+PZA,0.96,10/01/2020,Pierna,Yolanda Vega,100,96,KG,viernes
+PZA,0.925,10/01/2020,Muslo,Yolanda Vega,109,100.83,KG,viernes
+KG,1.54,10/01/2020,Milanesa de pechuga natural,Yolanda Vega,235,361.9,PZA,viernes
+PZA,1,10/01/2020,Servicio $30,Yolanda Vega,30,30,KG,viernes
+KG,1.005,10/01/2020,Carne Molida,Brissa Bautista,180,180.9,KG,viernes
+KG,2.07,11/01/2020,Pollo entero,Lisette Alfaro,108,223.56,KG,sábado
+PZA,1,11/01/2020,Servicio $30,Lisette Alfaro,30,30,KG,sábado
+PZA,1,11/01/2020,Servicio $30,Veronica Zapata,30,30,KG,sábado
+KG,2.14,11/01/2020,Milanesa de pechuga natural,Veronica Zapata,235,502.9,KG,sábado
+PZA,0.78,11/01/2020,Muslo,Berenice Morgado,109,85.02,KG,sábado
+KG,1.08,11/01/2020,Milanesa de pechuga natural,Berenice Morgado,235,253.8,KG,sábado
+PZA,1,11/01/2020,Servicio $30,Berenice Morgado,30,30,KG,sábado
+KG,0.3,13/01/2020,Pechuga sin hueso,Mayra Giron,185,55.5,PZA,lunes
+KG,1.985,13/01/2020,Milanesa de pechuga natural,Mayra Giron,235,466.48,PZA,lunes
+PZA,1,13/01/2020,Servicio $30,Mayra Giron,30,30,KG,lunes
+PZA,10,13/01/2020,Huevos,Karina Aranda,5,50,KG,lunes
+KG,0.52,13/01/2020,Pechuga sin hueso,Bertha Hernandez,185,96.2,KG,lunes
+PZA,1.05,13/01/2020,Muslo,Bertha Hernandez,109,114.45,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Bertha Hernandez,30,30,KG,lunes
+PZA,13,13/01/2020,Albondigas,Gladys Correa,9,117,KG,lunes
+PZA,1.015,13/01/2020,Milanesa de muslo marinado,Gladys Correa,180,182.7,KG,lunes
+KG,1.645,13/01/2020,Pechuga sin hueso,Gladys Correa,185,304.33,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Gladys Correa,30,30,KG,lunes
+KG,1.69,13/01/2020,Pechuga,Brenda Cepeda,169,285.61,KG,lunes
+KG,6.185,13/01/2020,Pollo entero,Brenda Cepeda,108,667.98,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Brenda Cepeda,30,30,KG,lunes
+KG,0.27,13/01/2020,Alitas,Aura Reyes,90,24.3,KG,lunes
+KG,0.7,13/01/2020,Carne Molida,Aura Reyes,180,126,KG,lunes
+KG,1.62,13/01/2020,Milanesa de pechuga natural,Aura Reyes,235,380.7,PZA,lunes
+KG,1.53,13/01/2020,Pechuga sin hueso,Aura Reyes,185,283.05,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Aura Reyes,30,30,KG,lunes
+KG,1.75,13/01/2020,Pechuga,Angelica Zacarias,169,295.75,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Angelica Zacarias,30,30,KG,lunes
+KG,0.635,13/01/2020,Milanesa de pechuga natural,Guadalupe Valles,235,149.23,KG,lunes
+KG,5.3,13/01/2020,Pollo entero,Guadalupe Valles,108,572.4,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Guadalupe Valles,30,30,KG,lunes
+KG,1.035,13/01/2020,Milanesa de pechuga natural,Fabiola Perez,235,243.23,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Fabiola Perez,30,30,KG,lunes
+KG,0.76,13/01/2020,Milanesa de pechuga natural,Heidi Pinto Burelo,235,178.6,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Heidi Pinto Burelo,30,30,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Chavo Suarez,30,30,KG,lunes
+KG,4.625,13/01/2020,Pechuga,Chavo Suarez,169,781.63,KG,lunes
+PZA,0.63,13/01/2020,Pierna,Guadalupe Gonzalez,100,63,KG,lunes
+KG,1.06,13/01/2020,Milanesa de muslo natural,Guadalupe Gonzalez,175,185.5,KG,lunes
+KG,4.66,13/01/2020,Pollo entero,Guadalupe Gonzalez,108,503.28,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Guadalupe Gonzalez,30,30,KG,lunes
+KG,0.835,13/01/2020,Pechuga,Dina Rodriguez,169,141.12,KG,lunes
+PZA,0.355,13/01/2020,Muslo,Dina Rodriguez,109,38.7,KG,lunes
+PZA,0.38,13/01/2020,Pierna,Dina Rodriguez,100,38,KG,lunes
+KG,0.24,13/01/2020,Chorizo artesanal,Dina Rodriguez,180,43.2,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Dina Rodriguez,30,30,KG,lunes
+KG,2.43,13/01/2020,Pollo entero,Alina Segura,108,262.44,KG,lunes
+KG,2.65,13/01/2020,Pollo entero,Paulina Salas,108,286.2,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Paulina Salas,30,30,KG,lunes
+KG,2.125,13/01/2020,Pollo entero,Ana Bertha,108,229.5,KG,lunes
+KG,0.485,13/01/2020,Chorizo artesanal,Beatriz Cruz M,180,87.3,KG,lunes
+KG,1.53,13/01/2020,Fajitas de pollo,Beatriz Cruz M,198,302.94,KG,lunes
+KG,1.07,13/01/2020,Carne Molida,Beatriz Cruz M,180,192.6,KG,lunes
+KG,1.52,13/01/2020,Milanesa de muslo natural,Beatriz Cruz M,175,266,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Beatriz Cruz M,30,30,KG,lunes
+KG,1.04,13/01/2020,Milanesa de pechuga natural,Fernanda Araiza,235,244.4,KG,lunes
+KG,1.015,13/01/2020,Pechuga,Fernanda Araiza,169,171.54,KG,lunes
+KG,1.52,13/01/2020,Milanesa de pechuga natural,Chelo Gutierrez,235,357.2,KG,lunes
+KG,1.04,13/01/2020,Pechuga,Chelo Gutierrez,169,175.76,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Chelo Gutierrez,30,30,KG,lunes
+KG,0.885,13/01/2020,Pechuga,Elizabeth Ramirez Ballesteros,169,149.57,KG,lunes
+KG,1.01,13/01/2020,Milanesa de pechuga natural,Elizabeth Ramirez Ballesteros,235,237.35,KG,lunes
+PZA,10,13/01/2020,Huevos,Elizabeth Ramirez Ballesteros,5,50,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Elizabeth Ramirez Ballesteros,30,30,KG,lunes
+KG,1.06,13/01/2020,Milanesa pechuga marinada,Laura Solis,240,254.4,KG,lunes
+PZA,12,13/01/2020,Albondigas,Laura Solis,9,108,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Laura Solis,30,30,KG,lunes
+KG,0.27,13/01/2020,Chorizo artesanal,Evelyn Meza,180,48.6,KG,lunes
+KG,1.035,13/01/2020,Milanesa pechuga marinada,Evelyn Meza,240,248.4,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Evelyn Meza,30,30,KG,lunes
+KG,1.005,13/01/2020,Milanesa pechuga marinada,Marissa Rosique,240,241.2,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Marissa Rosique,30,30,KG,lunes
+PZA,30,13/01/2020,Huevos,Hilda de la Cruz,5,150,KG,lunes
+KG,2.535,13/01/2020,Pechuga,Hilda de la Cruz,169,428.42,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Hilda de la Cruz,30,30,KG,lunes
+KG,2.72,13/01/2020,Pollo entero,Cinthia Gaspar,108,293.76,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Cinthia Gaspar,30,30,KG,lunes
+KG,0.7,13/01/2020,Milanesa de pechuga natural,Irma Jimenez,235,164.5,KG,lunes
+KG,2.865,13/01/2020,Pollo entero,Irma Jimenez,108,309.42,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Irma Jimenez,30,30,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Público en General,30,30,KG,lunes
+KG,1.99,13/01/2020,Pollo entero,Público en General,108,214.92,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Claudia Valdes,30,30,KG,lunes
+KG,1.495,13/01/2020,Milanesa de pechuga natural,Claudia Valdes,235,351.33,KG,lunes
+KG,2.25,13/01/2020,Pechuga,Claudia Valdes,169,380.25,KG,lunes
+KG,1.015,13/01/2020,Milanesa de pechuga natural,Daniel Casasus,235,238.53,KG,lunes
+PZA,20,13/01/2020,Huevos,Daniel Casasus,5,100,KG,lunes
+KG,0.775,13/01/2020,Pechuga,Daniel Casasus,169,130.98,KG,lunes
+KG,2.51,13/01/2020,Pollo entero,Daniel Casasus,108,271.08,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Daniel Casasus,30,30,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Mircy Altayra Frias,30,30,KG,lunes
+KG,1.51,13/01/2020,Milanesa de pechuga natural,Mircy Altayra Frias,235,354.85,KG,lunes
+PZA,10,13/01/2020,Huevos,Estephania Sanchez,5,50,KG,lunes
+KG,0.53,13/01/2020,Milanesa de muslo natural,Estephania Sanchez,175,92.75,KG,lunes
+KG,1.065,13/01/2020,Pechuga,Estephania Sanchez,169,179.99,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Estephania Sanchez,30,30,KG,lunes
+KG,1.01,13/01/2020,Milanesa pechuga empanizada,Janeth Arias,240,242.4,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Janeth Arias,30,30,KG,lunes
+KG,1.3,13/01/2020,Milanesa de muslo natural,Dolores Jimenez,175,227.5,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Dolores Jimenez,30,30,KG,lunes
+PZA,4,13/01/2020,Hamburguesas,Pamela Santos,18,72,KG,lunes
+PZA,12,13/01/2020,Albondigas,Pamela Santos,9,108,KG,lunes
+KG,0.99,13/01/2020,Milanesa de pechuga natural,Pamela Santos,235,232.65,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Pamela Santos,30,30,PZA,lunes
+KG,0.595,13/01/2020,Pechuga sin hueso,Katia Perez,185,110.08,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Katia Perez,30,30,KG,lunes
+KG,1.46,13/01/2020,Pechuga sin hueso,Silvia Correa,185,270.1,KG,lunes
+PZA,1,13/01/2020,Servicio $30,Silvia Correa,30,30,KG,lunes
+KG,2.35,13/01/2020,Pollo entero,Alfredo,108,253.8,KG,lunes
+PZA,1,14/01/2020,Servicio $30,Mayra Giron,30,30,KG,martes
+KG,0.385,14/01/2020,Milanesa de pechuga natural,Mayra Giron,235,90.48,KG,martes
+KG,0.46,14/01/2020,Pechuga sin hueso,Mayra Giron,185,85.1,KG,martes
+KG,1.02,14/01/2020,Milanesa de pechuga natural,Karina Grijalva,235,239.7,KG,martes
+PZA,1,14/01/2020,Servicio $30,Karina Grijalva,30,30,KG,martes
+KG,6.755,14/01/2020,Pollo entero,Concepcion Arnica,108,729.54,KG,martes
+PZA,3.095,14/01/2020,Milanesa de muslo empanizado,Concepcion Arnica,180,557.1,KG,martes
+KG,3.07,14/01/2020,Milanesa de muslo natural,Concepcion Arnica,175,537.25,KG,martes
+KG,3.05,14/01/2020,Alitas,Concepcion Arnica,90,274.5,KG,martes
+PZA,1,14/01/2020,Servicio $30,Concepcion Arnica,30,30,KG,martes
+KG,1,14/01/2020,Milanesa pechuga marinada,Isabel Hernandez,240,240,KG,martes
+KG,1.015,14/01/2020,Fajitas de pollo,Isabel Hernandez,198,200.97,KG,martes
+KG,4.825,14/01/2020,Pollo entero,Isabel Hernandez,108,521.1,PZA,martes
+PZA,1,14/01/2020,Servicio $30,Isabel Hernandez,30,30,KG,martes
+KG,1.015,14/01/2020,Milanesa de pechuga natural,Marcela Suarez,235,238.53,KG,martes
+PZA,10,14/01/2020,Nuggets,Marcela Suarez,6,60,KG,martes
+KG,2.36,14/01/2020,Pechuga,Marcela Suarez,169,398.84,KG,martes
+PZA,1,14/01/2020,Servicio $30,Marcela Suarez,30,30,KG,martes
+KG,0.805,14/01/2020,Pechuga,Ana Hilda Santillan,169,136.05,KG,martes
+PZA,1.23,14/01/2020,Muslo,Ana Hilda Santillan,109,134.07,KG,martes
+PZA,1,14/01/2020,Servicio $30,Ana Hilda Santillan,30,30,KG,martes
+KG,4.415,14/01/2020,Pollo entero,Sra. Galeana,108,476.82,PZA,martes
+PZA,1,14/01/2020,Servicio $30,Sra. Galeana,30,30,KG,martes
+KG,0.505,14/01/2020,Milanesa de pechuga natural,Zoraima Gomez,235,118.68,KG,martes
+PZA,0.655,14/01/2020,Muslo,Zoraima Gomez,109,71.4,KG,martes
+PZA,1,14/01/2020,Servicio $30,Zoraima Gomez,30,30,KG,martes
+PZA,1,14/01/2020,Servicio $30,Adriana Castro,30,30,KG,martes
+KG,0.745,14/01/2020,Pechuga,Adriana Castro,169,125.91,KG,martes
+PZA,0.445,14/01/2020,Pierna,Adriana Castro,100,44.5,KG,martes
+PZA,0.435,14/01/2020,Muslo,Adriana Castro,109,47.42,KG,martes
+PZA,1.345,14/01/2020,Muslo,Alejandra Sánchez,109,146.61,KG,martes
+PZA,1.4,14/01/2020,Pierna,Alejandra Sánchez,100,140,KG,martes
+PZA,1,14/01/2020,Servicio $30,Alejandra Sánchez,30,30,KG,martes
+KG,10.04,14/01/2020,Alitas,Aylin de la Cruz Magaña,55,552.2,KG,martes
+PZA,1,14/01/2020,Servicio $30,Maria Jesus Hernandez,30,30,KG,martes
+KG,0.525,14/01/2020,Chorizo artesanal,Maria Jesus Hernandez,180,94.5,KG,martes
+KG,1.005,14/01/2020,Milanesa de pechuga natural,Maria Jesus Hernandez,235,236.18,KG,martes
+PZA,10,14/01/2020,Hamburguesas,Julie Castillo Zurita,18,180,KG,martes
+KG,0.755,14/01/2020,Milanesa de pechuga natural,Julie Castillo Zurita,235,177.43,KG,martes
+KG,2.24,14/01/2020,Pollo entero,Julie Castillo Zurita,108,241.92,KG,martes
+PZA,1,14/01/2020,Servicio $30,Julie Castillo Zurita,30,30,KG,martes
+KG,0.835,14/01/2020,Pechuga,Laura Maria Duran Garcia,169,141.12,PZA,martes
+PZA,10,14/01/2020,Nuggets,Laura Maria Duran Garcia,6,60,KG,martes
+PZA,1,14/01/2020,Servicio $40,Laura Maria Duran Garcia,40,40,KG,martes
+KG,1.505,14/01/2020,Milanesa de pechuga natural,Ivan Sanchez,235,353.68,KG,martes
+PZA,10,14/01/2020,Albondigas,Ivan Sanchez,9,90,KG,martes
+PZA,20,14/01/2020,Nuggets,Ivan Sanchez,6,120,KG,martes
+PZA,0.815,14/01/2020,Muslo,Ivan Sanchez,109,88.84,KG,martes
+KG,0.65,14/01/2020,Pechuga sin hueso,Ivan Sanchez,185,120.25,KG,martes
+KG,0.91,14/01/2020,Pechuga,Ivan Sanchez,169,153.79,KG,martes
+PZA,1,14/01/2020,Servicio $30,Ivan Sanchez,30,30,KG,martes
+PZA,1,14/01/2020,Servicio $30,Marcela Vite,30,30,KG,martes
+KG,2.07,14/01/2020,Pollo entero,Marcela Vite,108,223.56,KG,martes
+KG,2.025,14/01/2020,Milanesa de pechuga natural,Doris Cervantes,235,475.88,KG,martes
+PZA,1,14/01/2020,Servicio $30,Doris Cervantes,30,30,KG,martes
+KG,0.25,14/01/2020,Milanesa de pechuga natural,Cesar Ruiz,235,58.75,KG,martes
+PZA,1.07,14/01/2020,Muslo,Cesar Ruiz,109,116.63,KG,martes
+KG,0.525,15/01/2020,Milanesa pechuga marinada,Katia Perez,240,126,PZA,miércoles
+PZA,1,15/01/2020,Servicio $30,Katia Perez,30,30,KG,miércoles
+PZA,1.805,15/01/2020,Muslo,Juan Pablo,109,196.75,KG,miércoles
+KG,4.545,15/01/2020,Pollo entero,Juan Pablo,108,490.86,KG,miércoles
+KG,2.41,15/01/2020,Pollo entero,Nery Romero,108,260.28,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Nery Romero,30,30,PZA,miércoles
+KG,0.885,15/01/2020,Pechuga,Cinthia Gaspar,169,149.57,KG,miércoles
+KG,1.015,15/01/2020,Milanesa de pechuga natural,Cinthia Gaspar,235,238.53,KG,miércoles
+KG,2.225,15/01/2020,Pollo entero,Cinthia Gaspar,108,240.3,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Cinthia Gaspar,30,30,KG,miércoles
+PZA,24,15/01/2020,Huevos,Edgar Zavala,5,120,KG,miércoles
+KG,1.01,15/01/2020,Milanesa de muslo natural,Edgar Zavala,175,176.75,KG,miércoles
+KG,2.29,15/01/2020,Pollo entero,Edgar Zavala,108,247.32,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Edgar Zavala,30,30,KG,miércoles
+KG,1,15/01/2020,Milanesa de pechuga natural,Irma Cachon,235,235,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Irma Cachon,30,30,KG,miércoles
+KG,1.01,15/01/2020,Carne Molida,Grecia Guerrero,180,181.8,KG,miércoles
+PZA,2.11,15/01/2020,Muslo,Grecia Guerrero,109,229.99,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Grecia Guerrero,30,30,KG,miércoles
+KG,1.99,15/01/2020,Pollo entero,Evelyn Meza,108,214.92,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Evelyn Meza,30,30,KG,miércoles
+KG,1.04,15/01/2020,Milanesa de pechuga natural,Norma Villegaz,235,244.4,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Norma Villegaz,30,30,KG,miércoles
+KG,2.265,15/01/2020,Pollo entero,Norma Villegaz,108,244.62,KG,miércoles
+KG,0.455,15/01/2020,Milanesa de pechuga natural,Liz Lastra,235,106.93,KG,miércoles
+KG,0.785,15/01/2020,Pechuga,Liz Lastra,169,132.67,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Liz Lastra,30,30,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Irma Cortazar,30,30,KG,miércoles
+KG,2.04,15/01/2020,Milanesa de muslo natural,Irma Cortazar,175,357,KG,miércoles
+PZA,6,15/01/2020,Hamburguesas,Irma Cortazar,18,108,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Mildred Ruz,30,30,KG,miércoles
+PZA,25,15/01/2020,Huevos,Mildred Ruz,5,125,KG,miércoles
+KG,0.505,15/01/2020,Menudencia,Viridiana Gonzalez,50,25.25,PZA,miércoles
+KG,1.025,15/01/2020,Milanesa de pechuga natural,Viridiana Gonzalez,235,240.88,KG,miércoles
+KG,1.965,15/01/2020,Pollo entero,Viridiana Gonzalez,108,212.22,KG,miércoles
+PZA,15,15/01/2020,Nuggets,Viridiana Gonzalez,6,90,KG,miércoles
+PZA,6,15/01/2020,Hamburguesas,Viridiana Gonzalez,18,108,KG,miércoles
+PZA,1,15/01/2020,Servicio $30,Viridiana Gonzalez,30,30,KG,miércoles
+KG,55.88,15/01/2020,Alitas,Geovani Garcia,30,1676.4,KG,miércoles
+PZA,20,16/01/2020,Huevos,Martha Oropeza,5,100,KG,jueves
+PZA,2.015,16/01/2020,Muslo,Martha Oropeza,109,219.64,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Martha Oropeza,30,30,KG,jueves
+KG,1.015,16/01/2020,Milanesa de pechuga natural,Maritza Espinosa,235,238.53,KG,jueves
+KG,3.885,16/01/2020,Pollo entero,Maritza Espinosa,108,419.58,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Maritza Espinosa,30,30,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Maricarmen Cornelio,30,30,KG,jueves
+PZA,4,16/01/2020,Hamburguesas,Maricarmen Cornelio,18,72,KG,jueves
+KG,0.5,16/01/2020,Milanesa pechuga empanizada,Maricarmen Cornelio,240,120,KG,jueves
+KG,1.01,16/01/2020,Milanesa pechuga marinada,Maricarmen Cornelio,240,242.4,KG,jueves
+KG,1.18,16/01/2020,Pechuga,Maricarmen Cornelio,169,199.42,KG,jueves
+KG,1.53,16/01/2020,Milanesa pechuga marinada,Isabel Hernandez,240,367.2,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Isabel Hernandez,30,30,KG,jueves
+PZA,12,16/01/2020,Huevos,Alicia Sarias,5,60,KG,jueves
+PZA,0.8,16/01/2020,Muslo,Alicia Sarias,109,87.2,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Alicia Sarias,30,30,KG,jueves
+KG,1.015,16/01/2020,Chorizo artesanal,Trini Morales,180,182.7,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Trini Morales,30,30,KG,jueves
+KG,3.04,16/01/2020,Menudencia,Jacobo Sandoval,50,152,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Jacobo Sandoval,30,30,KG,jueves
+KG,1.53,16/01/2020,Alitas,Jacobo Sandoval,75,114.75,KG,jueves
+KG,1.25,16/01/2020,Milanesa de pechuga natural,Mircy Altayra Frias,235,293.75,PZA,jueves
+PZA,1,16/01/2020,Servicio $30,Mircy Altayra Frias,30,30,KG,jueves
+PZA,4,16/01/2020,Hamburguesas,Alejandra Oropeza,18,72,KG,jueves
+KG,1.925,16/01/2020,Pollo entero,Alejandra Oropeza,108,207.9,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Alejandra Oropeza,30,30,KG,jueves
+PZA,1,16/01/2020,Servicio $30,Viridiana Zurita,30,30,KG,jueves
+KG,0.495,16/01/2020,Milanesa de muslo natural,Viridiana Zurita,175,86.63,KG,jueves
+KG,0.25,16/01/2020,Chorizo artesanal,Viridiana Zurita,180,45,KG,jueves
+KG,1.045,16/01/2020,Alitas,Viridiana Zurita,75,78.38,KG,jueves
+PZA,0.56,16/01/2020,Milanesa de muslo marinado,Luis Felipe,180,100.8,PZA,jueves
+KG,0.245,16/01/2020,Chorizo artesanal,Luis Felipe,180,44.1,KG,jueves
+KG,0.555,16/01/2020,Fajitas de pollo,Luis Felipe,198,109.89,KG,jueves
+PZA,10,16/01/2020,Hamburguesas,Luis Felipe,18,180,KG,jueves
+PZA,15,16/01/2020,Nuggets,Luis Felipe,6,90,KG,jueves
+KG,1.015,17/01/2020,Milanesa de pechuga natural,Claudia Hernández,235,238.53,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Claudia Hernández,30,30,KG,viernes
+PZA,2,17/01/2020,Promo hamburguesas (10 pza),Elda Santiago,159,318,PZA,viernes
+PZA,1,17/01/2020,Servicio $30,Elda Santiago,30,30,KG,viernes
+PZA,1,17/01/2020,Promo Nuggets (30 pza),Cristel Arias,159,159,PZA,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Cristel Arias,159,159,PZA,viernes
+KG,1.015,17/01/2020,Milanesa pechuga marinada,Cristel Arias,240,243.6,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Cristel Arias,30,30,KG,viernes
+PZA,0.25,17/01/2020,Pierna,Cruz Altozano,100,25,KG,viernes
+KG,3.28,17/01/2020,Pechuga,Cruz Altozano,169,554.32,KG,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Andrea Alcaraz,159,159,PZA,viernes
+KG,1.005,17/01/2020,Milanesa de pechuga natural,Andrea Alcaraz,235,236.18,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Andrea Alcaraz,30,30,KG,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Jade Garcia,159,159,PZA,viernes
+PZA,15,17/01/2020,Nuggets,Jade Garcia,6,90,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Jade Garcia,30,30,KG,viernes
+KG,2.075,17/01/2020,Pollo entero,Patricia Vidales,108,224.1,KG,viernes
+KG,0.615,17/01/2020,Pechuga,Patricia Vidales,169,103.94,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Patricia Vidales,30,30,KG,viernes
+PZA,1,17/01/2020,Promo Nuggets (30 pza),Diana Aguilar,159,159,PZA,viernes
+PZA,1,17/01/2020,Promo Nuggets (30 pza),Beatriz Castillo,159,159,PZA,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Beatriz Castillo,159,159,PZA,viernes
+PZA,1,17/01/2020,Servicio $40,Julieta Oramas,40,40,KG,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Julieta Oramas,159,159,PZA,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Maria del Carmen Zurita,159,159,PZA,viernes
+PZA,1,17/01/2020,Servicio $30,Maria del Carmen Zurita,30,30,KG,viernes
+KG,1.025,17/01/2020,Milanesa de pechuga natural,Mildred Ruz,235,240.88,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Mildred Ruz,30,30,KG,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Martha de los Santos,159,159,PZA,viernes
+PZA,1,17/01/2020,Servicio $30,Martha de los Santos,30,30,KG,viernes
+KG,1.98,17/01/2020,Pechuga sin hueso,Carolina Ortiz,185,366.3,KG,viernes
+PZA,2,17/01/2020,Promo hamburguesas (10 pza),Carolina Ortiz,159,318,PZA,viernes
+PZA,1,17/01/2020,Servicio $30,Carolina Ortiz,30,30,KG,viernes
+KG,0.535,17/01/2020,Pechuga,Alina Segura,169,90.42,KG,viernes
+KG,0.745,17/01/2020,Milanesa de muslo natural,Alicia Quevedo,175,130.38,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Alicia Quevedo,30,30,PZA,viernes
+KG,1.965,17/01/2020,Pollo entero,Tila Molina,108,212.22,KG,viernes
+KG,0.88,17/01/2020,Pechuga,Tila Molina,169,148.72,KG,viernes
+PZA,1.72,17/01/2020,Pierna,Rosa Juarez,100,172,KG,viernes
+KG,2,17/01/2020,Menudencia,Rosa Juarez,50,100,KG,viernes
+KG,5.095,17/01/2020,Pollo entero,Rosa Juarez,108,550.26,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Rosa Juarez,30,30,KG,viernes
+PZA,1,17/01/2020,Promo Nuggets (30 pza),Rosa Juarez,159,159,PZA,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Ariadne Canal Jimenez,159,159,PZA,viernes
+KG,1.01,17/01/2020,Milanesa de pechuga natural,Ariadne Canal Jimenez,235,237.35,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Ariadne Canal Jimenez,30,30,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Maria Jesus Hernandez,30,30,KG,viernes
+PZA,1,17/01/2020,Promo Nuggets (30 pza),Maria Jesus Hernandez,159,159,PZA,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Maria Jesus Hernandez,159,159,PZA,viernes
+KG,1.045,17/01/2020,Alitas,Karen Cordova,90,94.05,KG,viernes
+PZA,1,17/01/2020,Promo hamburguesas (10 pza),Karen Cordova,159,159,PZA,viernes
+PZA,0.535,17/01/2020,Muslo,Karen Cordova,109,58.32,PZA,viernes
+PZA,0.51,17/01/2020,Pierna,Karen Cordova,100,51,KG,viernes
+PZA,1,17/01/2020,Servicio $30,Karen Cordova,30,30,KG,viernes
+PZA,1,18/01/2020,Promo Nuggets (30 pza),Edna,159,159,PZA,sábado
+PZA,1,18/01/2020,Promo hamburguesas (10 pza),Edna,159,159,PZA,sábado
+PZA,1,18/01/2020,Servicio $30,Edna,30,30,KG,sábado
+KG,1.005,18/01/2020,Milanesa de pechuga natural,Roberto de la Cruz,235,236.18,KG,sábado
+PZA,1,18/01/2020,Promo Nuggets (30 pza),Roberto de la Cruz,159,159,PZA,sábado
+KG,1.025,18/01/2020,Carne Molida,Roberto de la Cruz,180,184.5,KG,sábado
+PZA,1,18/01/2020,Servicio $30,Roberto de la Cruz,30,30,KG,sábado
+PZA,1.255,18/01/2020,Muslo,Elvia May,109,136.8,KG,sábado
+PZA,1,18/01/2020,Servicio $30,Elvia May,30,30,KG,sábado
+PZA,1,18/01/2020,Servicio $30,Veronica Solbes,30,30,KG,sábado
+PZA,0.57,18/01/2020,Milanesa de muslo empanizado,Veronica Solbes,180,102.6,KG,sábado
+PZA,0.61,18/01/2020,Muslo,Veronica Solbes,109,66.49,KG,sábado
+PZA,0.52,18/01/2020,Pierna,Veronica Solbes,100,52,KG,sábado
+KG,0.5,18/01/2020,Milanesa de pechuga natural,Veronica Solbes,235,117.5,KG,sábado
+KG,0.805,18/01/2020,Pechuga,Veronica Solbes,169,136.05,PZA,sábado
+KG,0.83,18/01/2020,Pechuga,Moraima Mendez,169,140.27,KG,sábado
+KG,1.02,18/01/2020,Milanesa de pechuga natural,Moraima Mendez,235,239.7,KG,sábado
+PZA,1,18/01/2020,Servicio $30,Moraima Mendez,30,30,PZA,sábado
+KG,1,20/01/2020,Alitas,Ana Hilda Santillan,90,90,KG,lunes
+KG,1.51,20/01/2020,Milanesa pechuga empanizada,Ana Hilda Santillan,240,362.4,KG,lunes
+KG,0.715,20/01/2020,Pechuga,Ana Hilda Santillan,169,120.84,KG,lunes
+PZA,0.965,20/01/2020,Pierna,Ana Hilda Santillan,100,96.5,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Ana Hilda Santillan,30,30,KG,lunes
+PZA,1,20/01/2020,Servicio $35,Deysi Marcin,35,35,KG,lunes
+KG,2.29,20/01/2020,Pechuga,Deysi Marcin,169,387.01,KG,lunes
+KG,0.995,20/01/2020,Milanesa de pechuga natural,Deysi Marcin,235,233.83,KG,lunes
+PZA,0.32,20/01/2020,Pierna,Deysi Marcin,100,32,KG,lunes
+KG,3.05,20/01/2020,Milanesa de pechuga natural,Briseida Garrido,235,716.75,KG,lunes
+KG,2.675,20/01/2020,Pechuga,Briseida Garrido,169,452.08,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Briseida Garrido,30,30,KG,lunes
+KG,0.505,20/01/2020,Carne Molida,Silvia Ramon Taracena,180,90.9,KG,lunes
+KG,1,20/01/2020,Milanesa de pechuga natural,Silvia Ramon Taracena,235,235,KG,lunes
+KG,1.04,20/01/2020,Pechuga sin hueso,Silvia Ramon Taracena,185,192.4,KG,lunes
+KG,0.505,20/01/2020,Fajitas de pollo,Silvia Ramon Taracena,198,99.99,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Silvia Ramon Taracena,30,30,KG,lunes
+KG,1.01,20/01/2020,Milanesa de pechuga natural,Maritza Espinosa,235,237.35,PZA,lunes
+KG,1.5,20/01/2020,Menudencia,Maritza Espinosa,50,75,KG,lunes
+KG,4.335,20/01/2020,Pollo entero,Maritza Espinosa,108,468.18,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Maritza Espinosa,30,30,KG,lunes
+KG,2.195,20/01/2020,Pollo entero,Alina Segura,108,237.06,KG,lunes
+PZA,10,20/01/2020,Huevos,Elizabeth Ramirez Ballesteros,5,50,KG,lunes
+KG,1.03,20/01/2020,Milanesa de pechuga natural,Elizabeth Ramirez Ballesteros,235,242.05,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Elizabeth Ramirez Ballesteros,30,30,PZA,lunes
+KG,2.175,20/01/2020,Pollo entero,Matilde Juarez,108,234.9,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Matilde Juarez,30,30,KG,lunes
+KG,0.845,20/01/2020,Pechuga,Carolina Arias,169,142.81,KG,lunes
+KG,1,20/01/2020,Menudencia,Carolina Arias,50,50,KG,lunes
+PZA,0.96,20/01/2020,Muslo,Carolina Arias,109,104.64,KG,lunes
+PZA,0.81,20/01/2020,Pierna,Carolina Arias,100,81,PZA,lunes
+PZA,1,20/01/2020,Servicio $30,Carolina Arias,30,30,KG,lunes
+KG,2.35,20/01/2020,Pollo entero,Cinthia Gaspar,108,253.8,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Cinthia Gaspar,30,30,KG,lunes
+KG,0.865,20/01/2020,Pechuga,Yenni Rodriguez,169,146.19,PZA,lunes
+PZA,1,20/01/2020,Servicio $30,Yenni Rodriguez,30,30,KG,lunes
+KG,1.04,20/01/2020,Milanesa de pechuga natural,Evelyn Meza,235,244.4,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Evelyn Meza,30,30,KG,lunes
+KG,2.29,20/01/2020,Pollo entero,Marissa Rosique,108,247.32,PZA,lunes
+PZA,1,20/01/2020,Servicio $30,Marissa Rosique,30,30,KG,lunes
+PZA,25,20/01/2020,Huevos,Marcela Suarez,5,125,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Marcela Suarez,30,30,KG,lunes
+KG,10,20/01/2020,Alitas,Aylin de la Cruz Magaña,55,550,PZA,lunes
+KG,0.52,20/01/2020,Milanesa de pechuga natural,Alejandra Canudas,235,122.2,PZA,lunes
+KG,0.575,20/01/2020,Pechuga sin hueso,Alejandra Canudas,185,106.38,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Alejandra Canudas,30,30,KG,lunes
+KG,1.02,20/01/2020,Milanesa pechuga marinada,Marisela Lovato,240,244.8,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Marisela Lovato,30,30,KG,lunes
+KG,1.015,20/01/2020,Carne Molida,Laura Canton,180,182.7,KG,lunes
+PZA,12,20/01/2020,Albondigas,Laura Canton,9,108,PZA,lunes
+KG,0.86,20/01/2020,Milanesa de pechuga natural,Laura Canton,235,202.1,PZA,lunes
+KG,1.06,20/01/2020,Milanesa pechuga empanizada,Laura Canton,240,254.4,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Laura Canton,30,30,KG,lunes
+KG,2.07,20/01/2020,Alitas,Magali Utrilla,90,186.3,KG,lunes
+KG,0.415,20/01/2020,Milanesa de pechuga natural,Magali Utrilla,235,97.53,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Magali Utrilla,30,30,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Marcela Martinez,30,30,KG,lunes
+KG,1.925,20/01/2020,Pollo entero,Marcela Martinez,108,207.9,KG,lunes
+KG,1.51,20/01/2020,Milanesa de pechuga natural,Mircy Altayra Frias,235,354.85,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Mircy Altayra Frias,30,30,KG,lunes
+KG,1.87,20/01/2020,Pollo entero,Jonathan Rosales,108,201.96,PZA,lunes
+PZA,1,20/01/2020,Servicio $30,Jonathan Rosales,30,30,KG,lunes
+KG,0.11,20/01/2020,Milanesa de pechuga natural,Cesar Ruiz,235,25.85,KG,lunes
+KG,0.345,20/01/2020,Milanesa de muslo natural,Cesar Ruiz,175,60.38,KG,lunes
+KG,1.03,20/01/2020,Milanesa pechuga marinada,Lorena Marquez,240,247.2,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Lorena Marquez,30,30,KG,lunes
+KG,2.135,20/01/2020,Pollo entero,Yuliana Ranero,108,230.58,KG,lunes
+PZA,1,20/01/2020,Servicio $30,Yuliana Ranero,30,30,KG,lunes
+KG,3.05,21/01/2020,Pechuga,Chavo Suarez,169,515.45,KG,martes
+PZA,30,21/01/2020,Albondigas,Chavo Suarez,9,270,KG,martes
+PZA,1,21/01/2020,Servicio $30,Chavo Suarez,30,30,KG,martes
+KG,0.415,21/01/2020,Milanesa de pechuga natural,Dafne Viñas,235,97.53,KG,martes
+KG,2.17,21/01/2020,Pollo entero,Dafne Viñas,108,234.36,KG,martes
+PZA,1,21/01/2020,Servicio $40,Dafne Viñas,40,40,KG,martes
+KG,1.63,21/01/2020,Milanesa de pechuga natural,Aura Reyes,235,383.05,KG,martes
+KG,1.09,21/01/2020,Pechuga sin hueso,Aura Reyes,185,201.65,KG,martes
+PZA,1,21/01/2020,Servicio $30,Aura Reyes,30,30,KG,martes
+KG,1.03,21/01/2020,Milanesa de pechuga natural,Cinthia Gaspar,235,242.05,KG,martes
+PZA,1,21/01/2020,Servicio $30,Cinthia Gaspar,30,30,KG,martes
+KG,0.3,21/01/2020,Milanesa de pechuga natural,Andrea Lankenau,235,70.5,KG,martes
+KG,0.995,21/01/2020,Menudencia,Andrea Lankenau,50,49.75,KG,martes
+PZA,1,21/01/2020,Servicio $30,Andrea Lankenau,30,30,KG,martes
+KG,1.04,21/01/2020,Milanesa de pechuga natural,Guadalupe Valles,235,244.4,PZA,martes
+PZA,1,21/01/2020,Servicio $40,Guadalupe Valles,40,40,KG,martes
+KG,1.96,21/01/2020,Pechuga,Hilda de la Cruz,169,331.24,KG,martes
+PZA,30,21/01/2020,Huevos,Hilda de la Cruz,5,150,KG,martes
+PZA,1,21/01/2020,Servicio $30,Hilda de la Cruz,30,30,KG,martes
+KG,0.61,21/01/2020,Pechuga sin hueso,Mayra Giron,185,112.85,KG,martes
+KG,2.2,21/01/2020,Milanesa de pechuga natural,Mayra Giron,235,517,KG,martes
+PZA,1,21/01/2020,Servicio $30,Mayra Giron,30,30,KG,martes
+PZA,24,21/01/2020,Huevos,Daniel Casasus,5,120,KG,martes
+KG,0.375,21/01/2020,Menudencia,Daniel Casasus,50,18.75,KG,martes
+KG,1.015,21/01/2020,Milanesa de pechuga natural,Daniel Casasus,235,238.53,KG,martes
+KG,0.685,21/01/2020,Pechuga,Daniel Casasus,169,115.77,KG,martes
+KG,2.295,21/01/2020,Pollo entero,Daniel Casasus,108,247.86,KG,martes
+PZA,1,21/01/2020,Servicio $30,Daniel Casasus,30,30,KG,martes
+KG,1.505,21/01/2020,Milanesa de pechuga natural,Maria Luisa,235,353.68,KG,martes
+KG,1.42,21/01/2020,Pechuga,Maria Luisa,169,239.98,KG,martes
+PZA,1,21/01/2020,Servicio $30,Maria Luisa,30,30,KG,martes
+KG,1.515,21/01/2020,Milanesa de pechuga natural,Maria Jesus Hernandez,235,356.03,KG,martes
+PZA,1,21/01/2020,Servicio $30,Maria Jesus Hernandez,30,30,KG,martes
+KG,1.79,21/01/2020,Pollo entero,Alicia Ramirez,108,193.32,KG,martes
+PZA,1,21/01/2020,Servicio $30,Alicia Ramirez,30,30,KG,martes
+KG,0.75,21/01/2020,Pechuga,Sofia Gonzalez Goraieb,169,126.75,KG,martes
+PZA,0.44,21/01/2020,Muslo,Sofia Gonzalez Goraieb,109,47.96,KG,martes
+PZA,0.45,21/01/2020,Pierna,Sofia Gonzalez Goraieb,100,45,KG,martes
+PZA,1,21/01/2020,Servicio $30,Sofia Gonzalez Goraieb,30,30,KG,martes
+PZA,0.9,21/01/2020,Pierna,Magali Utrilla,100,90,KG,martes
+PZA,1.08,21/01/2020,Muslo,Magali Utrilla,109,117.72,KG,martes
+PZA,1,21/01/2020,Servicio $30,Magali Utrilla,30,30,KG,martes
+KG,1.295,21/01/2020,Pechuga,Lenny Castro,169,218.86,KG,martes
+PZA,1,21/01/2020,Servicio $30,Lenny Castro,30,30,PZA,martes
+KG,2.27,21/01/2020,Pollo entero,Dolores Jimenez,108,245.16,KG,martes
+PZA,1,21/01/2020,Servicio $30,Dolores Jimenez,30,30,KG,martes
+KG,0.42,21/01/2020,Chorizo artesanal,Manuela Jener Vidal,180,75.6,KG,martes
+KG,1.005,21/01/2020,Carne Molida,Manuela Jener Vidal,180,180.9,KG,martes
+PZA,1,21/01/2020,Servicio $30,Manuela Jener Vidal,30,30,KG,martes
+PZA,10,21/01/2020,Huevos,Karina Aranda,5,50,KG,martes
+KG,1.01,21/01/2020,Menudencia,Alexis,50,50.5,KG,martes
+KG,1.495,22/01/2020,Fajitas de pollo,Beatriz Cruz M,198,296.01,KG,miércoles
+PZA,1,22/01/2020,Promo hamburguesas (10 pza),Beatriz Cruz M,159,159,PZA,miércoles
+PZA,1,22/01/2020,Servicio $30,Beatriz Cruz M,30,30,KG,miércoles
+KG,1.985,22/01/2020,Pechuga sin hueso,Ariadne Canal Jimenez,185,367.23,KG,miércoles
+KG,2.025,22/01/2020,Milanesa de pechuga natural,Ariadne Canal Jimenez,235,475.88,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Ariadne Canal Jimenez,30,30,KG,miércoles
+PZA,1,22/01/2020,Promo hamburguesas (10 pza),Isabel Hernandez,159,159,PZA,miércoles
+KG,0.52,22/01/2020,Fajitas de pollo,Isabel Hernandez,198,102.96,KG,miércoles
+KG,1.865,22/01/2020,Pollo entero,Isabel Hernandez,108,201.42,KG,miércoles
+KG,1.025,22/01/2020,Milanesa de pechuga natural,Fernanda Araiza,235,240.88,KG,miércoles
+KG,1.03,22/01/2020,Milanesa de pechuga natural,Chelo Gutierrez,235,242.05,KG,miércoles
+KG,0.645,22/01/2020,Pechuga,Chelo Gutierrez,169,109.01,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Chelo Gutierrez,30,30,KG,miércoles
+KG,1.01,22/01/2020,Milanesa de pechuga natural,Karina Grijalva,235,237.35,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Karina Grijalva,30,30,KG,miércoles
+KG,1.25,22/01/2020,Milanesa de pechuga natural,Ana Laura Ortiz,235,293.75,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Ana Laura Ortiz,30,30,KG,miércoles
+PZA,1,22/01/2020,Promo hamburguesas (10 pza),Cristel Gallegos,159,159,PZA,miércoles
+PZA,1,22/01/2020,Servicio $30,Cristel Gallegos,30,30,PZA,miércoles
+KG,1.785,22/01/2020,Pollo entero,Norma Villegaz,108,192.78,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Norma Villegaz,30,30,KG,miércoles
+KG,1.51,22/01/2020,Fajitas de pollo,Lulu Castro,198,298.98,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Lulu Castro,30,30,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Nery Romero,30,30,KG,miércoles
+KG,2.39,22/01/2020,Pollo entero,Nery Romero,108,258.12,KG,miércoles
+KG,0.535,22/01/2020,Milanesa pechuga marinada,Gloria Berezaluce,240,128.4,KG,miércoles
+PZA,24,22/01/2020,Huevos,Gloria Berezaluce,5,120,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Gloria Berezaluce,30,30,KG,miércoles
+PZA,2,22/01/2020,Promo hamburguesas (10 pza),Wendy de la Fuente,159,318,PZA,miércoles
+PZA,1,22/01/2020,Servicio $30,Wendy de la Fuente,30,30,KG,miércoles
+KG,4.015,22/01/2020,Milanesa de pechuga natural,Araceli Lopez,235,943.53,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Araceli Lopez,30,30,KG,miércoles
+KG,0.39,22/01/2020,Milanesa pechuga empanizada,Maridey Oramas,240,93.6,KG,miércoles
+KG,1.01,22/01/2020,Milanesa de pechuga natural,Maridey Oramas,235,237.35,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Maridey Oramas,30,30,KG,miércoles
+PZA,12,22/01/2020,Nuggets,Cynthia Diaz,6,72,KG,miércoles
+PZA,1,22/01/2020,Promo hamburguesas (10 pza),Cynthia Diaz,159,159,PZA,miércoles
+PZA,1,22/01/2020,Servicio $30,Cynthia Diaz,30,30,KG,miércoles
+KG,1,22/01/2020,Milanesa de pechuga natural,Carmen Cruz Santiago,235,235,KG,miércoles
+KG,0.75,22/01/2020,Pechuga,Carmen Cruz Santiago,169,126.75,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Carmen Cruz Santiago,30,30,KG,miércoles
+KG,2.305,22/01/2020,Pollo entero,Maria de Jesus,108,248.94,KG,miércoles
+PZA,2,22/01/2020,Promo hamburguesas (10 pza),Maria de Jesus,159,318,PZA,miércoles
+PZA,1,22/01/2020,Servicio $35,Maria de Jesus,35,35,KG,miércoles
+PZA,1,22/01/2020,Promo hamburguesas (10 pza),Edith Geronimo,159,159,PZA,miércoles
+PZA,1,22/01/2020,Servicio $30,Edith Geronimo,30,30,KG,miércoles
+PZA,1,22/01/2020,Servicio $40,Laura Maria Duran Garcia,40,40,KG,miércoles
+KG,1.995,22/01/2020,Pollo entero,Laura Maria Duran Garcia,108,215.46,KG,miércoles
+PZA,1,22/01/2020,Promo hamburguesas (10 pza),Thelma,159,159,PZA,miércoles
+PZA,1,22/01/2020,Promo hamburguesas (10 pza),Miriam Avalos,159,159,PZA,miércoles
+PZA,1,22/01/2020,Servicio $35,Miriam Avalos,35,35,KG,miércoles
+KG,1.17,22/01/2020,Pechuga,Yaritza Plaisant,169,197.73,KG,miércoles
+PZA,1,22/01/2020,Servicio $30,Yaritza Plaisant,30,30,KG,miércoles
+PZA,10.2,22/01/2020,Producto congelado muslo,Alexis,30,306,KG,miércoles
+KG,15.445,22/01/2020,Producto congelado pierna,Alexis,30,463.35,KG,miércoles
+KG,1.01,23/01/2020,Milanesa de muslo natural,Guadalupe Gonzalez,175,176.75,KG,jueves
+KG,2.005,23/01/2020,Alitas,Guadalupe Gonzalez,75,150.38,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Guadalupe Gonzalez,30,30,KG,jueves
+PZA,0.99,23/01/2020,Muslo,Karla Puente,109,107.91,KG,jueves
+PZA,0.89,23/01/2020,Pierna,Karla Puente,100,89,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Karla Puente,30,30,KG,jueves
+KG,4.04,23/01/2020,Alitas,Ana Silvia,75,303,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Ana Silvia,30,30,PZA,jueves
+KG,10.05,23/01/2020,Alitas,Aylin de la Cruz Magaña,55,552.75,KG,jueves
+KG,6.025,23/01/2020,Alitas,Katia Salazar,75,451.88,KG,jueves
+KG,1.03,23/01/2020,Milanesa de pechuga natural,Mildred Ruz,235,242.05,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Mildred Ruz,30,30,KG,jueves
+PZA,1,23/01/2020,Promo Nuggets (30 pza),Mariana Luna,159,159,PZA,jueves
+KG,3,23/01/2020,Milanesa de pechuga natural,Mariana Luna,235,705,KG,jueves
+PZA,1,23/01/2020,Servicio $35,Mariana Luna,35,35,KG,jueves
+KG,1.98,23/01/2020,Pechuga sin hueso,Loreni Mollinedo,185,366.3,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Loreni Mollinedo,30,30,KG,jueves
+KG,2.07,23/01/2020,Milanesa pechuga empanizada,Laura Canton,240,496.8,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Laura Canton,30,30,KG,jueves
+PZA,1.105,23/01/2020,Muslo,Alejandra Perez,109,120.45,KG,jueves
+PZA,15,23/01/2020,Nuggets,Alejandra Perez,6,90,KG,jueves
+KG,0.54,23/01/2020,Milanesa de pechuga natural,Alejandra Perez,235,126.9,KG,jueves
+KG,0.52,23/01/2020,Milanesa pechuga empanizada,Alejandra Perez,240,124.8,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Alejandra Perez,30,30,KG,jueves
+KG,1.035,23/01/2020,Milanesa de pechuga natural,Rocilu Estrada,235,243.23,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Rocilu Estrada,30,30,KG,jueves
+KG,1.04,23/01/2020,Milanesa pechuga marinada,Guadalupe Carrillo,240,249.6,KG,jueves
+KG,1,23/01/2020,Fajitas de pollo,Guadalupe Carrillo,198,198,KG,jueves
+KG,0.24,23/01/2020,Chorizo artesanal,Guadalupe Carrillo,180,43.2,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Guadalupe Carrillo,30,30,KG,jueves
+KG,2.085,23/01/2020,Alitas,Alejandra Sánchez,75,156.38,KG,jueves
+KG,0.89,23/01/2020,Pechuga,Alejandra Sánchez,169,150.41,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Alejandra Sánchez,30,30,KG,jueves
+KG,1.04,23/01/2020,Milanesa de pechuga natural,Alejandra Zurita,235,244.4,KG,jueves
+KG,0.63,23/01/2020,Pechuga,Alejandra Zurita,169,106.47,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Alejandra Zurita,30,30,KG,jueves
+PZA,4,23/01/2020,Nuggets,Jesus Herrera,6,24,PZA,jueves
+KG,0.515,23/01/2020,Milanesa pechuga marinada,Jesus Herrera,240,123.6,KG,jueves
+PZA,0.315,23/01/2020,Muslo,Jesus Herrera,109,34.34,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Jesus Herrera,30,30,KG,jueves
+KG,0.525,23/01/2020,Pechuga,Alina Segura,169,88.73,KG,jueves
+KG,0.245,23/01/2020,Chorizo artesanal,Zoraima Gomez,180,44.1,PZA,jueves
+KG,0.495,23/01/2020,Milanesa de pechuga natural,Zoraima Gomez,235,116.33,KG,jueves
+PZA,1.74,23/01/2020,Muslo,Zoraima Gomez,109,189.66,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Zoraima Gomez,30,30,KG,jueves
+KG,1.25,23/01/2020,Milanesa de pechuga natural,Mircy Altayra Frias,235,293.75,KG,jueves
+PZA,1,23/01/2020,Servicio $30,Mircy Altayra Frias,30,30,KG,jueves
+KG,2.275,23/01/2020,Pollo entero,Mariana de la Cruz,0,0,KG,jueves
+KG,20.03,23/01/2020,Alitas,Geovani Garcia,30,600.9,PZA,jueves
+KG,2.86,24/01/2020,Pollo entero,Sebastiana,108,308.88,KG,viernes
+PZA,0.745,24/01/2020,Muslo,Tila Molina,109,81.21,KG,viernes
+PZA,0.805,24/01/2020,Pierna,Tila Molina,100,80.5,KG,viernes
+KG,0.55,24/01/2020,Milanesa de pechuga natural,Tila Molina,235,129.25,KG,viernes
+PZA,4,24/01/2020,Hamburguesas,Tila Molina,18,72,KG,viernes
+KG,2.605,24/01/2020,Pollo entero,Jose Macario,108,281.34,KG,viernes
+PZA,2.075,24/01/2020,Muslo,Martha Oropeza,109,226.18,KG,viernes
+PZA,20,24/01/2020,Huevos,Martha Oropeza,5,100,KG,viernes
+PZA,1,24/01/2020,Servicio $30,Martha Oropeza,30,30,KG,viernes
+PZA,1,24/01/2020,Promo Nuggets (30 pza),Catalina Vidaurri,159,159,PZA,viernes
+PZA,1,24/01/2020,Promo hamburguesas (10 pza),Catalina Vidaurri,159,159,PZA,viernes
+PZA,1,24/01/2020,Servicio $30,Catalina Vidaurri,30,30,KG,viernes
+PZA,1,24/01/2020,Promo hamburguesas (10 pza),Edith Dominguez,159,159,PZA,viernes
+KG,0.515,24/01/2020,Milanesa pechuga empanizada,Edith Dominguez,240,123.6,KG,viernes
+PZA,1,24/01/2020,Servicio $30,Edith Dominguez,30,30,KG,viernes
+KG,0.52,24/01/2020,Milanesa de pechuga natural,Jacobo Sandoval,235,122.2,KG,viernes
+PZA,1,24/01/2020,Promo hamburguesas (10 pza),Jacobo Sandoval,159,159,PZA,viernes
+PZA,1,24/01/2020,Servicio $30,Jacobo Sandoval,30,30,PZA,viernes
+PZA,1,24/01/2020,Servicio $30,Angelica Zacarias,30,30,KG,viernes
+KG,0.88,24/01/2020,Pechuga,Angelica Zacarias,169,148.72,KG,viernes
+KG,3.02,24/01/2020,Milanesa de pechuga natural,Aron Ratana,235,709.7,KG,viernes
+PZA,1,24/01/2020,Servicio $30,Yanira Sanchez,30,30,KG,viernes
+PZA,1,24/01/2020,Promo hamburguesas (10 pza),Yanira Sanchez,159,159,PZA,viernes
+PZA,1,24/01/2020,Promo hamburguesas (10 pza),Gabriela Morales,159,159,PZA,viernes
+PZA,1,24/01/2020,Servicio $30,Gabriela Morales,30,30,PZA,viernes
+PZA,10,24/01/2020,Albondigas,Gabriela Sanchez,9,90,KG,viernes
+PZA,1,24/01/2020,Promo hamburguesas (10 pza),Gabriela Sanchez,159,159,PZA,viernes
+PZA,1,24/01/2020,Servicio $30,Gabriela Sanchez,30,30,KG,viernes
+PZA,0.575,24/01/2020,Milanesa de muslo empanizado,Veronica Solbes,180,103.5,KG,viernes
+KG,1.03,24/01/2020,Milanesa de pechuga natural,Veronica Solbes,235,242.05,KG,viernes
+PZA,1,24/01/2020,Servicio $30,Veronica Solbes,30,30,KG,viernes
+KG,0.74,24/01/2020,Pechuga,Veronica Solbes,169,125.06,KG,viernes
+PZA,5,24/01/2020,Hamburguesas,Maria Luisa Guichard,18,90,KG,viernes
+KG,2.19,24/01/2020,Pollo entero,Maria Luisa Guichard,108,236.52,KG,viernes
+PZA,1,24/01/2020,Servicio $30,Maria Luisa Guichard,30,30,KG,viernes
+PZA,1,24/01/2020,Promo hamburguesas (10 pza),Liliana Rodriguez,159,159,PZA,viernes
+PZA,1,24/01/2020,Servicio $40,Liliana Rodriguez,40,40,KG,viernes
+PZA,1,25/01/2020,Servicio $35,Fabiola,35,35,KG,sábado
+PZA,30,25/01/2020,Huevos,Fabiola,5,150,KG,sábado
+KG,0.51,25/01/2020,Milanesa de pechuga natural,Fabiola,235,119.85,PZA,sábado
+KG,1.085,25/01/2020,Pechuga,Fabiola,169,183.37,KG,sábado
+KG,0.5,25/01/2020,Milanesa de pechuga natural,Karina Aranda,235,117.5,KG,sábado
+PZA,10,25/01/2020,Huevos,Karina Aranda,5,50,KG,sábado
+PZA,1,25/01/2020,Servicio $30,Karina Aranda,30,30,KG,sábado
+KG,3,25/01/2020,Pechuga,Daniela Lopez,169,507,KG,sábado
+PZA,1,25/01/2020,Servicio $30,Daniela Lopez,30,30,KG,sábado
+PZA,6,27/01/2020,Hamburguesas,Maria Jesus Hernandez,18,108,KG,lunes
+KG,1.025,27/01/2020,Milanesa de pechuga natural,Maria Jesus Hernandez,235,240.88,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Maria Jesus Hernandez,30,30,KG,lunes
+KG,0.575,27/01/2020,Pechuga,Wendy Herrera,169,97.18,KG,lunes
+PZA,12,27/01/2020,Hamburguesas,Wendy Herrera,18,216,KG,lunes
+PZA,18,27/01/2020,Albondigas,Wendy Herrera,9,162,KG,lunes
+PZA,1,27/01/2020,Servicio $40,Wendy Herrera,40,40,KG,lunes
+KG,1,27/01/2020,Milanesa de pechuga natural,Carolina Naranjo,235,235,KG,lunes
+KG,2.055,27/01/2020,Pollo entero,Carolina Naranjo,108,221.94,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Carolina Naranjo,30,30,KG,lunes
+KG,0.535,27/01/2020,Milanesa pechuga marinada,Maria Cruz Velazquez,240,128.4,KG,lunes
+PZA,3,27/01/2020,Hamburguesas,Maria Cruz Velazquez,18,54,KG,lunes
+PZA,12,27/01/2020,Albondigas,Maria Cruz Velazquez,9,108,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Maria Cruz Velazquez,30,30,KG,lunes
+PZA,0.64,27/01/2020,Muslo,Miriam Margot,109,69.76,KG,lunes
+PZA,0.53,27/01/2020,Pierna,Miriam Margot,100,53,KG,lunes
+PZA,1.04,27/01/2020,Milanesa de muslo empanizado,Miriam Margot,180,187.2,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Miriam Margot,30,30,KG,lunes
+KG,1.305,27/01/2020,Pechuga,Angelica Zacarias,169,220.55,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Angelica Zacarias,30,30,KG,lunes
+KG,2.17,27/01/2020,Pollo entero,Cinthia Gaspar,108,234.36,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Cinthia Gaspar,30,30,KG,lunes
+PZA,10,27/01/2020,Albondigas,Maria Medina,9,90,KG,lunes
+PZA,1,27/01/2020,Promo Nuggets (30 pza),Maria Medina,159,159,PZA,lunes
+PZA,1,27/01/2020,Servicio $30,Maria Medina,30,30,KG,lunes
+KG,2.935,27/01/2020,Pechuga sin hueso,Cruz Altozano,185,542.98,KG,lunes
+KG,0.515,27/01/2020,Milanesa de pechuga natural,Evelyn Meza,235,121.03,KG,lunes
+KG,0.745,27/01/2020,Milanesa pechuga empanizada,Evelyn Meza,240,178.8,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Evelyn Meza,30,30,KG,lunes
+KG,7.895,27/01/2020,Pollo entero,Dr Miguel Javier,108,852.66,KG,lunes
+PZA,0.475,27/01/2020,Muslo,Guadalupe Gonzalez,109,51.78,KG,lunes
+PZA,0.41,27/01/2020,Pierna,Guadalupe Gonzalez,100,41,KG,lunes
+KG,4.215,27/01/2020,Pollo entero,Guadalupe Gonzalez,108,455.22,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Guadalupe Gonzalez,30,30,KG,lunes
+KG,0.355,27/01/2020,Milanesa de pechuga natural,Manuela Jener Vidal,235,83.43,KG,lunes
+PZA,1.37,27/01/2020,Pierna,Manuela Jener Vidal,100,137,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Manuela Jener Vidal,30,30,KG,lunes
+KG,0.74,27/01/2020,Milanesa de muslo natural,Dolores Jimenez,175,129.5,KG,lunes
+KG,2.175,27/01/2020,Pollo entero,Dolores Jimenez,108,234.9,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Dolores Jimenez,30,30,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Sra Juanita,30,30,KG,lunes
+KG,1.505,27/01/2020,Fajitas de pollo,Sra Juanita,198,297.99,KG,lunes
+KG,0.76,27/01/2020,Carne Molida,Rosy Bernat,180,136.8,KG,lunes
+KG,0.235,27/01/2020,Chorizo artesanal,Rosy Bernat,180,42.3,KG,lunes
+PZA,10,27/01/2020,Nuggets,Rosy Bernat,6,60,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Rosy Bernat,30,30,KG,lunes
+KG,1.83,27/01/2020,Pollo entero,Irma Jimenez,108,197.64,KG,lunes
+KG,1,27/01/2020,Milanesa de pechuga natural,Irma Jimenez,235,235,KG,lunes
+KG,1.1,27/01/2020,Menudencia,Irma Jimenez,50,55,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Irma Jimenez,30,30,KG,lunes
+PZA,1,27/01/2020,Servicio $30,Tania Arelis Zuñiga,30,30,KG,lunes
+KG,0.98,27/01/2020,Pechuga sin hueso,Tania Arelis Zuñiga,185,181.3,KG,lunes
+PZA,1,27/01/2020,Servicio $30,RUTH MIJANGOS MASIAS,30,30,KG,lunes
+KG,1,27/01/2020,Milanesa de pechuga natural,RUTH MIJANGOS MASIAS,235,235,KG,lunes
+KG,0.25,27/01/2020,Milanesa de muslo natural,Cesar Ruiz,175,43.75,KG,lunes
+KG,0.1,27/01/2020,Milanesa de pechuga natural,Cesar Ruiz,235,23.5,KG,lunes
+KG,6.535,28/01/2020,Pollo entero,Elba Fernandez,108,705.78,KG,martes
+PZA,1,28/01/2020,Servicio $30,Elba Fernandez,30,30,KG,martes
+KG,0.505,28/01/2020,Milanesa de muslo natural,Raquel Martinez,175,88.38,KG,martes
+KG,0.325,28/01/2020,Menudencia,Raquel Martinez,50,16.25,KG,martes
+KG,0.52,28/01/2020,Milanesa de pechuga natural,Raquel Martinez,235,122.2,KG,martes
+PZA,1,28/01/2020,Servicio $35,Raquel Martinez,35,35,KG,martes
+KG,0.85,28/01/2020,Milanesa de pechuga natural,Mayra Giron,235,199.75,KG,martes
+PZA,1,28/01/2020,Servicio $30,Mayra Giron,30,30,KG,martes
+KG,0.7,28/01/2020,Pechuga sin hueso,Mayra Giron,185,129.5,KG,martes
+KG,1.04,28/01/2020,Pechuga sin hueso,Claudia Hernández,185,192.4,KG,martes
+PZA,1,28/01/2020,Servicio $30,Claudia Hernández,30,30,KG,martes
+KG,1.01,28/01/2020,Fajitas de pollo,Maria del Carmen Zurita,198,199.98,KG,martes
+KG,1.91,28/01/2020,Pollo entero,Maria del Carmen Zurita,108,206.28,KG,martes
+PZA,1,28/01/2020,Servicio $30,Maria del Carmen Zurita,30,30,KG,martes
+KG,2.015,28/01/2020,Milanesa de pechuga natural,Maritza Espinosa,235,473.53,KG,martes
+KG,1.795,28/01/2020,Pollo entero,Maritza Espinosa,108,193.86,KG,martes
+PZA,1,28/01/2020,Servicio $30,Maritza Espinosa,30,30,KG,martes
+PZA,3,28/01/2020,Hamburguesas,Guadalupe Gonzalez,18,54,KG,martes
+KG,1.045,28/01/2020,Milanesa de pechuga natural,Guadalupe Gonzalez,235,245.58,KG,martes
+PZA,1,28/01/2020,Servicio $30,Guadalupe Gonzalez,30,30,KG,martes
+KG,2.04,28/01/2020,Pollo entero,Alina Segura,108,220.32,KG,martes
+KG,1.555,28/01/2020,Alitas,Oralia de la O,90,139.95,KG,martes
+KG,0.765,28/01/2020,Pechuga,Oralia de la O,169,129.29,KG,martes
+PZA,1,28/01/2020,Servicio $30,Oralia de la O,30,30,KG,martes
+PZA,1,28/01/2020,Servicio $30,Aura Reyes,30,30,KG,martes
+KG,0.605,28/01/2020,Carne Molida,Aura Reyes,180,108.9,KG,martes
+KG,1.66,28/01/2020,Milanesa de pechuga natural,Aura Reyes,235,390.1,KG,martes
+KG,1.01,28/01/2020,Milanesa de pechuga natural,Deysi Marcin,235,237.35,KG,martes
+PZA,0.275,28/01/2020,Pierna,Deysi Marcin,100,27.5,KG,martes
+KG,2.565,28/01/2020,Pechuga,Deysi Marcin,169,433.49,KG,martes
+PZA,1,28/01/2020,Servicio $35,Deysi Marcin,35,35,KG,martes
+PZA,2.955,28/01/2020,Muslo,Magali Utrilla,109,322.1,KG,martes
+PZA,1,28/01/2020,Servicio $30,Magali Utrilla,30,30,KG,martes
+KG,0.825,28/01/2020,Milanesa de pechuga natural,Julie Castillo Zurita,235,193.88,KG,martes
+KG,0.46,28/01/2020,Pechuga sin hueso,Julie Castillo Zurita,185,85.1,KG,martes
+KG,2.305,28/01/2020,Pollo entero,Julie Castillo Zurita,108,248.94,KG,martes
+PZA,1,28/01/2020,Servicio $30,Julie Castillo Zurita,30,30,KG,martes
+KG,1.04,28/01/2020,Milanesa de pechuga natural,Cinthia Gaspar,235,244.4,KG,martes
+PZA,1,28/01/2020,Servicio $30,Cinthia Gaspar,30,30,KG,martes
+KG,1.04,28/01/2020,Milanesa pechuga marinada,Isabel Hernandez,240,249.6,KG,martes
+KG,1.04,28/01/2020,Fajitas de pollo,Isabel Hernandez,198,205.92,KG,martes
+KG,1.93,28/01/2020,Pollo entero,Isabel Hernandez,108,208.44,KG,martes
+PZA,1,28/01/2020,Servicio $30,Isabel Hernandez,30,30,KG,martes
+PZA,30,28/01/2020,Huevos,Norma Villegaz,5,150,KG,martes
+KG,1.64,28/01/2020,Pollo entero,Martha Arellano,108,177.12,KG,martes
+PZA,1,28/01/2020,Servicio $30,Martha Arellano,30,30,KG,martes
+KG,1.025,28/01/2020,Milanesa de pechuga natural,Rommy Cano,235,240.88,KG,martes
+KG,1,28/01/2020,Pechuga sin hueso,Rommy Cano,185,185,KG,martes
+PZA,1,28/01/2020,Servicio $30,Rommy Cano,30,30,KG,martes
+KG,1.06,28/01/2020,Milanesa de muslo natural,Clara Marmolejo,175,185.5,KG,martes
+PZA,1,28/01/2020,Servicio $30,Clara Marmolejo,30,30,KG,martes
+PZA,1.045,29/01/2020,Muslo,Bertha Hernandez,109,113.91,KG,miércoles
+KG,0.49,29/01/2020,Pechuga sin hueso,Bertha Hernandez,185,90.65,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Bertha Hernandez,30,30,KG,miércoles
+KG,30.075,29/01/2020,Alitas,Geovani Garcia,30,902.25,KG,miércoles
+KG,0.505,29/01/2020,Fajitas de pollo,Silvia Ramon Taracena,198,99.99,KG,miércoles
+KG,0.5,29/01/2020,Carne Molida,Silvia Ramon Taracena,180,90,KG,miércoles
+KG,1.005,29/01/2020,Milanesa de pechuga natural,Silvia Ramon Taracena,235,236.18,KG,miércoles
+KG,1.045,29/01/2020,Pechuga sin hueso,Silvia Ramon Taracena,185,193.33,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Silvia Ramon Taracena,30,30,KG,miércoles
+KG,1.025,29/01/2020,Milanesa de pechuga natural,Karla Rodriguez,235,240.88,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Karla Rodriguez,30,30,KG,miércoles
+PZA,0.42,29/01/2020,Muslo,Ana Laura Ortiz,109,45.78,KG,miércoles
+PZA,0.61,29/01/2020,Pierna,Ana Laura Ortiz,100,61,KG,miércoles
+KG,0.51,29/01/2020,Milanesa de pechuga natural,Ana Laura Ortiz,235,119.85,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Ana Laura Ortiz,30,30,KG,miércoles
+KG,3.01,29/01/2020,Pechuga sin hueso,Mayra Giron,185,556.85,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Mayra Giron,30,30,KG,miércoles
+KG,1.445,29/01/2020,Pechuga,Evelyn Meza,169,244.21,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Evelyn Meza,30,30,KG,miércoles
+KG,0.53,29/01/2020,Pechuga,Eva Correa,169,89.57,KG,miércoles
+PZA,0.475,29/01/2020,Pierna,Eva Correa,100,47.5,KG,miércoles
+PZA,0.51,29/01/2020,Muslo,Eva Correa,109,55.59,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Eva Correa,30,30,KG,miércoles
+KG,1.035,29/01/2020,Pechuga sin hueso,Lissete Gomez,185,191.48,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Lissete Gomez,30,30,KG,miércoles
+KG,1.51,29/01/2020,Milanesa de pechuga natural,Karina Grijalva,235,354.85,KG,miércoles
+PZA,1,29/01/2020,Promo hamburguesas (10 pza),Karina Grijalva,159,159,PZA,miércoles
+PZA,1,29/01/2020,Servicio $30,Karina Grijalva,30,30,KG,miércoles
+KG,0.5,29/01/2020,Chorizo artesanal,Araceli Lopez,180,90,KG,miércoles
+KG,1.06,29/01/2020,Alitas,Araceli Lopez,90,95.4,KG,miércoles
+PZA,1.005,29/01/2020,Pierna,Araceli Lopez,100,100.5,KG,miércoles
+KG,3.04,29/01/2020,Milanesa de pechuga natural,Araceli Lopez,235,714.4,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Araceli Lopez,30,30,KG,miércoles
+KG,1.52,29/01/2020,Milanesa de pechuga natural,Claudia Valdes,235,357.2,KG,miércoles
+KG,1.88,29/01/2020,Pechuga,Claudia Valdes,169,317.72,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Claudia Valdes,30,30,KG,miércoles
+PZA,15,29/01/2020,Huevos,Marcela Suarez,5,75,KG,miércoles
+KG,1.06,29/01/2020,Milanesa de pechuga natural,Marcela Suarez,235,249.1,KG,miércoles
+KG,2.365,29/01/2020,Pollo entero,Marcela Suarez,108,255.42,KG,miércoles
+KG,1.21,29/01/2020,Pechuga,Marcela Suarez,169,204.49,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Marcela Suarez,30,30,KG,miércoles
+PZA,12,29/01/2020,Huevos,Marcelin Aguilera,5,60,KG,miércoles
+PZA,1,29/01/2020,Promo hamburguesas (10 pza),Marcelin Aguilera,159,159,PZA,miércoles
+PZA,0.55,29/01/2020,Pierna,Marcelin Aguilera,100,55,KG,miércoles
+PZA,0.535,29/01/2020,Muslo,Marcelin Aguilera,109,58.32,KG,miércoles
+KG,0.565,29/01/2020,Pechuga sin hueso,Marcelin Aguilera,185,104.53,KG,miércoles
+KG,0.49,29/01/2020,Chorizo artesanal,Marcelin Aguilera,180,88.2,KG,miércoles
+KG,0.505,29/01/2020,Milanesa de muslo natural,Marcelin Aguilera,175,88.38,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Marcelin Aguilera,30,30,KG,miércoles
+PZA,1,29/01/2020,Servicio $40,Laura Maria Duran Garcia,40,40,KG,miércoles
+KG,0.775,29/01/2020,Pechuga,Laura Maria Duran Garcia,169,130.98,KG,miércoles
+KG,2.035,29/01/2020,Pollo entero,Manuela Jener Vidal,108,219.78,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Manuela Jener Vidal,30,30,KG,miércoles
+KG,4.72,29/01/2020,Pollo entero,Claribel Serra Dominguez,108,509.76,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Claribel Serra Dominguez,30,30,KG,miércoles
+PZA,1,29/01/2020,Servicio $35,Cristina Frias,35,35,KG,miércoles
+KG,1.055,29/01/2020,Milanesa de muslo natural,Cristina Frias,175,184.63,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Adriana Vera,30,30,KG,miércoles
+PZA,1,29/01/2020,Promo hamburguesas (10 pza),Adriana Vera,159,159,PZA,miércoles
+KG,2.135,29/01/2020,Pollo entero,Paola Rodriguez,108,230.58,KG,miércoles
+PZA,1,29/01/2020,Servicio $40,Paola Rodriguez,40,40,KG,miércoles
+PZA,5.135,29/01/2020,Producto congelado muslo,Rosa Urania,30,154.05,KG,miércoles
+KG,1.98,29/01/2020,Pollo entero,Maritza Espinosa,108,213.84,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Maritza Espinosa,30,30,KG,miércoles
+PZA,1.015,29/01/2020,Muslo,Susy,109,110.64,KG,miércoles
+PZA,10,29/01/2020,Nuggets,Susy,6,60,KG,miércoles
+KG,1.02,29/01/2020,Milanesa de pechuga natural,Marcela Vite,235,239.7,KG,miércoles
+PZA,1,29/01/2020,Servicio $30,Marcela Vite,30,30,KG,miércoles
+PZA,1,29/01/2020,Promo hamburguesas (10 pza),Alexis,159,159,PZA,miércoles
+PZA,1,30/01/2020,Servicio $30,Adriana Tapia,30,30,KG,jueves
+PZA,14,30/01/2020,Hamburguesas,Adriana Tapia,18,252,KG,jueves
+PZA,1,30/01/2020,Servicio $35,Maria Mercedes C,35,35,KG,jueves
+KG,0.51,30/01/2020,Carne Molida,Maria Mercedes C,180,91.8,KG,jueves
+KG,0.515,30/01/2020,Milanesa de pechuga natural,Maria Mercedes C,235,121.03,KG,jueves
+KG,0.655,30/01/2020,Pechuga,Maria Mercedes C,169,110.7,KG,jueves
+PZA,1,30/01/2020,Servicio $30,Carmen Vidales,30,30,KG,jueves
+KG,2.38,30/01/2020,Pollo entero,Carmen Vidales,108,257.04,KG,jueves
+PZA,20,30/01/2020,Huevos,Carmen Vidales,5,100,KG,jueves
+KG,0.36,30/01/2020,Milanesa de pechuga natural,Carmen Vidales,235,84.6,KG,jueves
+KG,1.555,30/01/2020,Pechuga sin hueso,Ariana Garfio,185,287.68,KG,jueves
+PZA,1,30/01/2020,Servicio $30,Ariana Garfio,30,30,KG,jueves
+KG,0.505,30/01/2020,Milanesa de pechuga natural,Alejandra Canudas,235,118.68,KG,jueves
+PZA,1,30/01/2020,Servicio $30,Alejandra Canudas,30,30,KG,jueves
+KG,2.145,30/01/2020,Pollo entero,Edith Geronimo,108,231.66,KG,jueves
+PZA,1,30/01/2020,Servicio $30,Edith Geronimo,30,30,KG,jueves
+KG,2.04,30/01/2020,Alitas,Martha Arellano,75,153,KG,jueves
+PZA,1,30/01/2020,Servicio $30,Martha Arellano,30,30,KG,jueves
+KG,1.255,30/01/2020,Milanesa de pechuga natural,Mircy Altayra Frias,235,294.93,KG,jueves
+PZA,1,30/01/2020,Servicio $30,Mircy Altayra Frias,30,30,KG,jueves
+PZA,0.525,30/01/2020,Pierna,Guadalupe Gonzalez,100,52.5,KG,jueves
+KG,1.52,30/01/2020,Milanesa de muslo natural,Guadalupe Gonzalez,175,266,KG,jueves
+KG,2.025,30/01/2020,Alitas,Guadalupe Gonzalez,75,151.88,KG,jueves
+KG,2.26,30/01/2020,Pollo entero,Guadalupe Gonzalez,108,244.08,KG,jueves
+PZA,1,30/01/2020,Servicio $30,Guadalupe Gonzalez,30,30,KG,jueves
+KG,1.015,31/01/2020,Alitas,Alejandra Oropeza,75,76.13,KG,viernes
+PZA,12,31/01/2020,Albondigas,Alejandra Oropeza,9,108,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Alejandra Oropeza,159,159,PZA,viernes
+PZA,1,31/01/2020,Servicio $30,Alejandra Oropeza,30,30,KG,viernes
+PZA,1,31/01/2020,Promo Nuggets (30 pza),Sebastiana,159,159,PZA,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Sebastiana,159,159,PZA,viernes
+PZA,5,31/01/2020,Hamburguesas,Tila Molina,18,90,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Esmeralda Arias,159,159,PZA,viernes
+PZA,2,31/01/2020,Hamburguesas,Wendy Herrera,18,36,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Wendy Herrera,159,159,PZA,viernes
+KG,1.53,31/01/2020,Milanesa pechuga empanizada,Wendy Herrera,240,367.2,KG,viernes
+KG,0.69,31/01/2020,Pechuga,Wendy Herrera,169,116.61,KG,viernes
+PZA,1,31/01/2020,Servicio $40,Wendy Herrera,40,40,KG,viernes
+KG,0.5,31/01/2020,Chorizo artesanal,Santa Paredes,180,90,KG,viernes
+KG,0.805,31/01/2020,Carne Molida,Santa Paredes,180,144.9,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Santa Paredes,30,30,KG,viernes
+KG,0.54,31/01/2020,Milanesa pechuga marinada,Isabel Hernandez,240,129.6,KG,viernes
+KG,0.5,31/01/2020,Fajitas de pollo,Isabel Hernandez,198,99,KG,viernes
+KG,2.035,31/01/2020,Pollo entero,Isabel Hernandez,108,219.78,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Isabel Hernandez,30,30,KG,viernes
+KG,5.425,31/01/2020,Pollo entero,Sra. Galeana,108,585.9,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Sra. Galeana,30,30,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Marina Chavez,159,159,PZA,viernes
+PZA,15,31/01/2020,Albondigas,Marina Chavez,9,135,KG,viernes
+PZA,0.79,31/01/2020,Muslo,Marina Chavez,109,86.11,KG,viernes
+KG,0.82,31/01/2020,Pechuga,Marina Chavez,169,138.58,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Marina Chavez,30,30,KG,viernes
+PZA,2,31/01/2020,Promo hamburguesas (10 pza),Martha de los Santos,159,318,PZA,viernes
+PZA,1,31/01/2020,Servicio $30,Martha de los Santos,30,30,KG,viernes
+KG,0.515,31/01/2020,Menudencia,Samanta Sastre,50,25.75,KG,viernes
+KG,0.665,31/01/2020,Pechuga sin hueso,Samanta Sastre,185,123.03,KG,viernes
+KG,1.005,31/01/2020,Milanesa de pechuga natural,Samanta Sastre,235,236.18,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Samanta Sastre,30,30,KG,viernes
+PZA,1.015,31/01/2020,Pierna,Guadalupe Valles,100,101.5,KG,viernes
+KG,0.635,31/01/2020,Milanesa de pechuga natural,Guadalupe Valles,235,149.23,KG,viernes
+KG,2,31/01/2020,Pollo entero,Guadalupe Valles,108,216,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Guadalupe Valles,30,30,KG,viernes
+KG,0.75,31/01/2020,Pechuga,Angelica Zacarias,169,126.75,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Angelica Zacarias,30,30,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Carolina Arias,159,159,PZA,viernes
+KG,1.54,31/01/2020,Milanesa de pechuga natural,Carolina Arias,235,361.9,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Carolina Arias,30,30,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Karen Cordova,159,159,PZA,viernes
+KG,1.025,31/01/2020,Milanesa de pechuga natural,Karen Cordova,235,240.88,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Karen Cordova,30,30,KG,viernes
+KG,1.555,31/01/2020,Milanesa de pechuga natural,Mircy Altayra Frias,235,365.43,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Mircy Altayra Frias,30,30,KG,viernes
+KG,0.25,31/01/2020,Chorizo artesanal,Juan Pablo,180,45,KG,viernes
+PZA,2.05,31/01/2020,Muslo,Juan Pablo,109,223.45,KG,viernes
+KG,0.515,31/01/2020,Milanesa de pechuga natural,Juan Pablo,235,121.03,KG,viernes
+KG,0.32,31/01/2020,Milanesa de pechuga natural,Lulu Jauregui,235,75.2,KG,viernes
+KG,0.69,31/01/2020,Pechuga,Lulu Jauregui,169,116.61,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Lulu Jauregui,30,30,KG,viernes
+PZA,1,31/01/2020,Servicio $30,Paola Vargas,30,30,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Paola Vargas,159,159,PZA,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Alexis,159,159,PZA,viernes
+KG,30.08,31/01/2020,Alitas,Geovani Garcia,30,902.4,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Elena Bustamante,159,159,PZA,viernes
+PZA,1,31/01/2020,Servicio $30,Elena Bustamante,30,30,KG,viernes
+PZA,1,31/01/2020,Promo hamburguesas (10 pza),Cesar Ruiz,159,159,PZA,viernes
